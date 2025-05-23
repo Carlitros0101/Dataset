@@ -1,0 +1,167 @@
+CUENTA,NOMBRE_CUENTA,CLASIFICACION
+1101-02,FONDO FIJO,Efectivo y equivalentes al efectivo
+1101-03,no BANCO DE CHILE,Efectivo y equivalentes al efectivo
+1101-04,no BANCO DE CREDITO E INVERSIONES,Efectivo y equivalentes al efectivo
+1101-07,no BANCO BICE,Efectivo y equivalentes al efectivo
+1101-08,no BANCO BICE US$,Efectivo y equivalentes al efectivo
+1101-09,no BANCO BICE EUROS,Efectivo y equivalentes al efectivo
+1102-01,DEPOSITO A PLAZO,Efectivo y equivalentes al efectivo
+1103-01,ACCIONES,Efectivo y equivalentes al efectivo
+1103-02,FONDOS MUTUOS,Efectivo y equivalentes al efectivo
+1103-03,FONDOS MUTUOS OTROS,Efectivo y equivalentes al efectivo
+1104-01,DEUDORES CLIENTES,Deudores comerciales y otras cuentas por cobrar corrientes
+1106-01,OP. PREST. MUTUO,Otros Activos
+1106-02,OTROS DEUDORES VARIOS,Deudores comerciales y otras cuentas por cobrar corrientes
+1106-03,PRESTAMOS TRABAJADORES,Deudores comerciales y otras cuentas por cobrar corrientes
+1106-04,ANTICIPO PROVEEDOR MONEDA EXTRANJERA,Cuentas por pagar comerciales y otras cuentas por pagar
+1106-05,ANTICIPO PROVEEDORES,Cuentas por pagar comerciales y otras cuentas por pagar
+1106-06,ANTICIPOS VARIOS,Cuentas por pagar comerciales y otras cuentas por pagar
+1106-07,FONDOS A RENDIR,Deudores comerciales y otras cuentas por cobrar corrientes
+1106-08,AGENTE DE ADUANA,Deudores comerciales y otras cuentas por cobrar corrientes
+1106-09,CTAS.POR COBRAR EMP.RELACIONADAS,Cuentas por cobrar a entidades relacionadas, corrientes
+1106-10,ANTICIPOS AL PERSONAL,Deudores comerciales y otras cuentas por cobrar corrientes
+1106-11,ANTICIPOS AL PERSONAL ROL PRIVADO,Deudores comerciales y otras cuentas por cobrar corrientes
+1108-01,PAGOS PROVISIONALES,Activos por impuestos corrientes
+1108-02,I.V.A. CREDITO FISCAL,Activos por impuestos corrientes
+1108-04,CREDITO ART.33 BIS,Activos por impuestos corrientes
+1108-06,CREDITO SENCE,Activos por impuestos corrientes
+1109-01,MERCADERIAS,Inventarios corrientes
+1110-09,INTERES DIFERIDO LEASING,Otros activos financieros
+1110-10,INTERESES DIFERIDO,Otros activos financieros
+1111-01,RETIRO SOCIOS,Otros Activos
+1111-03,RETIROS RAP,Otros Activos
+1117-01,CTA.IMPORTACIONES,Deudores comerciales y otras cuentas por cobrar corrientes
+1204-01,VEHICULOS,Propiedades, planta y equipo
+1204-02,VEHICULOS LEASING,Propiedades, planta y equipo
+1205-01,MAQUINARIAS Y EQUIPOS,Propiedades, planta y equipo
+1207-01,DEPRECIACION ACUMULADA (-),Propiedades, planta y equipo
+1209-01,MUEBLES UTILES E INSTALACIONES,Propiedades, planta y equipo
+1209-02,HERRAMIENTAS Y ENSERES,Propiedades, planta y equipo
+1209-03,OTROS ACTIVOS FIJOS,Propiedades, planta y equipo
+1902-01,OTRAS GARANTIAS,Otros Activos
+1903-01,BOLETAS DE GARANTIA,Otros Activos
+2101-03,CREDITOS BCO.CHILE C/P,Otros pasivos financieros corrientes
+2101-06,TARJETA VISA BCO.CHILE,Otros pasivos financieros corrientes
+2101-07,L.C. BCO.CHILE,Otros pasivos financieros corrientes
+2101-08,L.C.BCO.BCI,Otros pasivos financieros corrientes
+2105-02,REMUNERACIONES POR PAGAR,Cuentas por pagar comerciales y otras cuentas por pagar
+2105-03,REMUNERACIONES POR PAGAR ROL PRIVADO,Cuentas por pagar comerciales y otras cuentas por pagar
+2105-04,CUENTAS POR PAGAR,Cuentas por pagar comerciales y otras cuentas por pagar
+2105-06,PROVEEDORES MONEDA EXTRANJERA,Cuentas por pagar comerciales y otras cuentas por pagar
+2105-08,AGENCIA DE ADUANA,Cuentas por pagar comerciales y otras cuentas por pagar
+2105-09,HONORARIOS POR PAGAR,Cuentas por pagar comerciales y otras cuentas por pagar
+2106-02,CHEQUES POR PAGAR,Cuentas por pagar comerciales y otras cuentas por pagar
+2107-05,LEASING VEHICULO,Cuentas por pagar comerciales y otras cuentas por pagar
+2108-01,PAGOS PROVISIONALES,Pasivos por impuestos
+2108-02,I.V.A. DEBITO FISCAL,Pasivos por impuestos
+2108-03,I.UNICO Y G.COMPLEMENTARIO,Pasivos por impuestos
+2108-04,RETENCION PROFESIONALES,Pasivos por impuestos
+2108-06,RET 3% PREST. SOLID.,Pasivos por impuestos
+2108-07,AFP,Cuentas por pagar comerciales y otras cuentas por pagar
+2108-08,CCAF E INST.DE SEGURIDAD,Cuentas por pagar comerciales y otras cuentas por pagar
+2108-10,PROVISIONES Y RETENCIONES,Cuentas por pagar comerciales y otras cuentas por pagar
+2108-11,PROVISION DEUDORES INCOBRABLES,Cuentas por pagar comerciales y otras cuentas por pagar
+2108-20,ISAPRES,Cuentas por pagar comerciales y otras cuentas por pagar
+2108-24,INST.NORMALIZ. PREVISIONAL,Cuentas por pagar comerciales y otras cuentas por pagar
+2109-01,PROV.IMPUESTO RENTA,Pasivos por impuestos
+2110-04,ANTICIPO CLIENTES,Deudores comerciales y otras cuentas por cobrar corrientes
+2112-03,CTAS.CTES SOCIOS,Cuentas por pagar a entidades relacionadas
+2116-01,FACTURAS POR PAGAR,Cuentas por pagar comerciales y otras cuentas por pagar
+2116-03,CTAS.POR PAGAR EMP.RELACIONADAS,Cuentas por pagar a entidades relacionadas
+2201-01,CREDITOS LARGO PLAZO,Otros pasivos financieros no corrientes
+2301-01,CAPITAL PAGADO,Capital emitido
+2302-01,RESERVAS DE REVALORIZACION,Capital emitido
+2305-02,UTILIDADES ACUMULADAS,Resultado acumulado
+2305-05,UTILIDAD (PERDIDA)EJERC.,Resultado acumulado
+2306-01,RETIRO REINVERSION,Resultado acumulado
+2903-01,RESPONS. BOLETAS GARANTIA,Otros Activos
+2905-01,RESP.DOCUMENTOS EN GARANTIA,Otros Activos
+RESULTADO DEL EJERCICIO,RESULTADO DEL EJERCICIO,Resultado acumulado
+4101-01,COSTO PRODUCTOS/ARTICULOS,Costos de distribución
+4101-05,ETIQUETAS Y ENVASES,Costos de distribución
+4101-06,SALARIOS Y SUELDOS PRODUCCION,Costos de distribución
+4101-07,LEYES SOCIALES,Costos de distribución
+4101-08,FLETES,Costos de distribución
+4101-09,OTROS GASTOS DE EXPLOTACION,Costos de distribución
+4101-10,MANTENCION MAQUINARIAS,Costos de distribución
+4101-11,GASTO HERRAMIENTA,Costos de distribución
+4101-15,GASTOS BODEGA,Costos de distribución
+4101-20,MOVILIZACION Y COLACION,Costos de distribución
+4101-21,INSUMOS DE PRODUCCION,Costos de distribución
+4101-22,MERMAS Y EXCEDENTES,Costos de distribución
+4101-23,GTOS.CAPACITACION PROD.- BODEGA,Costos de distribución
+4101-26,SALARIO Y SUELDOS BODEGA,Costos de distribución
+4101-28,LEYES SOCIALES BODEGA,Costos de distribución
+4101-29,COLACION Y MOVILIZ. BODEGA,Costos de distribución
+4101-30,GASTOS POR MONTAJES,Costos de distribución
+4101-31,OTROS GASTOS PRODUCCION,Costos de distribución
+4201-01,SUELDOS Y SALARIOS,Gastos de administración
+4201-03,LEYES SOCIALES,Gastos de administración
+4201-04,GASTOS DE OFICINA,Gastos de administración
+4201-05,IMPUESTOS Y PATENTES,Gastos de administración
+4201-06,MANTENCION DE VEHICULOS,Gastos de administración
+4201-07,MANTENC.EQUIP. Y EDIFICIOS,Gastos de administración
+4201-08,OTROS GASTOS DE ADMINISTRACION,Gastos de administración
+4201-10,GASTOS BANCARIOS,Costos financieros
+4201-11,INTERESES Y MULTAS,Otros gastos
+4201-12,LEGALES Y NOTARIALES,Otros gastos
+4201-13,BIENESTAR SOCIAL,Gastos de administración
+4201-16,INTERESES LEASING,Costos financieros
+4201-17,SUELDOS Y SALARIOS ROL PRIVADO,Gastos de administración
+4201-18,SEGUROS,Gastos de administración
+4201-19,GASTOS CAPACITACION PERSONAL,Gastos de administración
+4201-20,GASTO DE SEGURIDAD,Gastos de administración
+4201-24,FINIQUITOS,Gastos de administración
+4201-25,LUZ-GAS-AGUA-ASEO,Gastos de administración
+4201-26,LOCOMOCION Y COLACION,Gastos de administración
+4201-30,ARRIENDO Y GASTOS COMUNES,Gastos de administración
+4201-31,TELEFONOS-TELEX-CORREO,Gastos de administración
+4201-32,SUSCRIPCIONES Y PUBLICACIONES,Gastos de administración
+4201-35,INTERESES/IMPTOS/TARJETA VISA,Costo financiero
+4201-36,MANTENCIONES Y REPARACIONES,Gastos de administración
+4201-37,SERVICIO COMPUTACIONAL,Gastos de administración
+4201-39,GASTOS RECHAZADOS,Gastos de administración
+4201-40,DONACIONES,Gastos de administración
+4201-43,LEYES SOCIALES ROL PRIVADO,Gastos de administración
+4202-02,HONORARIOS,Gastos de administración
+4202-04,OTROS GASTOS SIG,Gastos de administración
+4205-01,INTERESES BANCARIOS,Costo financiero
+4205-01,INTERESES BANCARIOS,Costos financieros
+4205-05,INT. Y COMIS. POR L.C.,Costos financieros
+4206-01,DEPRECIACION EJERCICIO,Gastos de administración
+4292-01,CASTIGO DEUDORES,Gastos de administración
+4301-01,COMISIONES VENDEDORES,Gastos de administración
+4301-05,OTROS GASTOS DE VENTA,Gastos de administración
+4301-06,SUELDOS Y SALARIOS,Gastos de administración
+4301-08,LEYES SOCIALES,Gastos de administración
+4301-10,CAPACITACION PERSONAL,Gastos de administración
+4301-11,FINIQUITOS,Gastos de administración
+4301-12,LOCOMOCION Y COLACION,Gastos de administración
+4301-15,GASTOS HOTEL,Gastos de administración
+4301-16,COLACION Y MOV. TECNICA,Gastos de administración
+4301-17,ARRIENDO VEHICULOS VENTAS,Gastos de administración
+4301-18,GASTOS REUNION VENTAS,Gastos de administración
+4301-19,GASTOS PASAJES VENTAS,Gastos de administración
+4301-20,PUBLICIDAD,Gastos de administración
+4401-01,INTERESES PAGADOS,Otros gastos
+4401-04,SINIESTROS,Otros gastos
+4401-06,FLUCTUACION DE CAMBIOS,Resultados por unidades de reajuste
+4401-07,PERD. MCDO COLOC. NAC. ACC.,Resultados por unidades de reajuste
+4404-01,COSTO VTAS.INMOVILIZADO,Otros gastos
+4405-01,REAJUSTE CRED.FISCAL,Resultados por unidades de reajuste
+4405-02,REAJUSTE ART. 72,Resultados por unidades de reajuste
+4501-05,ACTIVO INMOVILIZADO,Otros gastos
+4501-13,CORRECCION MONETARIA,Resultados por unidades de reajuste
+4701-01,PRIMERA CATEGORIA,Gasto por impuestos a las ganancias
+5101-01,VENTAS,Ingresos de actividades ordinarias
+5101-05,OTROS INGRESOS,Otros Ingresos
+5201-01,FLUCTUACION DE CAMBIOS,Resultados por unidades de reajuste
+5201-02,DIVIDENDOS PERCIBIDOS,Dividendos Recibidos
+5201-05,VENTAS DE INMOVILIZADO,Otros Ingresos
+5201-06,INTERESES PERCIBIDOS,Otros Ingresos
+5201-07,INDEMN.SEGUROS,Otros Ingresos
+5203-01,REAJUSTE CRED. FISCAL,Resultados por unidades de reajuste
+5501-10,ACCIONES,Otros Ingresos
+5501-13,CORRECCION MONETARIA,Resultados por unidades de reajuste
+5501-14,GAN. MCDO COLOC NAC. ACC.,Otros Ingresos
+5501-15,GAN. MCDO COLOC NAC. FFMM.,Otros Ingresos
