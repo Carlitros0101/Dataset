@@ -1246,19 +1246,59 @@ RESULTADO DEL EJERCICIO,RESULTADO DEL EJERCICIO,Resultado acumulado
 64050035,Otros Servicios Externos,Costo de ventas
 65000022,Otros Egresos no Operacionales,Otros Ingresos (gastos)
 65000023,Otros estudios No Operacionales,Otros Ingresos (gastos)
-CATODOSCU,SUBREPARTO CATODOS COBRE CU,Grupo sub repartos
-CTOGADMVTA,COSTO GASTO ADMINISTRACIÓN Y VENTA,Grupo sub repartos
-CTOVTAELEC,COSTO DE VENTA ELECTROLITO,Grupo sub repartos
-CVTAGAVINT,COSTO DE VENTA GAV EERR,Grupo sub repartos
-CVTASERINT,COSTO DE VENTA SERVICIO EERR,Grupo sub repartos
-GAVADMVTA,GASTO ADMINISTRACIÓN Y VENTA,Grupo sub repartos
-MINERALSTO,SUBREPARTO MINERAL EN STOCK GENERAL,Grupo sub repartos
-MINSTOCKCA,SUBREPARTO MINERAL EN STOCK CANCHA,Grupo sub repartos
-MINSTOCKMI,SUBREPARTO MINERAL EN STOCK MINA,Grupo sub repartos
-MIN_DORE,SUBREPARTO MINERAL DORÉ,Grupo sub repartos
-MOD_PM,MANO DE OBRA PM MANTENIMIENTO ELECTRO,Grupo sub repartos
-OCTOSOPERA,OTROS COSTOS OPERACIONALES,Grupo sub repartos
-OTCOSOPERA,OTROS COSTOS OPERACIONALES,Grupo sub repartos
-PM_MOD,MANO DE OBRA PM MANTENIMIENTO,Grupo sub repartos
-S21LIQCOR,Liq Correctivo,Grupo sub repartos
-S21LIQPRE,Liq Preventivo,Grupo sub repartos
+1.1.02.001,Banco Chile,Efectivo y equivalentes al efectivo
+1.1.03.001,Fondos Mutuos,Efectivo y equivalentes al efectivo
+1.1.04.001,Clientes,Deudores comerciales y otras cuentas por cobrar corrientes
+1.1.06.002,Anticipo Proveedores,Cuentas por pagar comerciales y otras cuentas por pagar
+1.1.06.004,Fondos por Rendir,Deudores comerciales y otras cuentas por cobrar corrientes
+1.1.07.001,Iva Credito Fiscal,Activos por impuestos corrientes
+1.1.07.002,PPM,Activos por impuestos corrientes
+1.1.07.006,IVA Remanente,Activos por impuestos corrientes
+1.1.10.025,Cta Cte DYG Ing. y Construccion,Cuentas por cobrar a entidades relacionadas, corrientes
+1.2.01.002,Terrenos,Propiedades planta y equipo
+1.2.01.020,Proyecto Fotovoltaico Los Perales II,Propiedades planta y equipo
+1.2.01.022,Proyecto Fotovoltaico Los Perales I,Propiedades planta y equipo
+1.2.01.023,Contenedor,Propiedades planta y equipo
+1.2.01.024,Paneles Solares,Propiedades planta y equipo
+1.2.01.025,Inversor,Propiedades planta y equipo
+1.2.02.001,Depreciacion Acumulada,Propiedades planta y equipo
+1.3.01.002,Intereses Diferidos Ptmos EERR C/P,Otros activos financieros 
+1.3.03.002,Intereses Diferidos Ptmos EERR L/P,Otros activos financieros 
+2.1.03.001,Proveedores Naciones,Cuentas por pagar comerciales y otras cuentas por pagar
+2.1.03.003,Honorarios Por Pagar,Cuentas por pagar comerciales y otras cuentas por pagar
+2.1.03.009,Cta Cte Agencia de Aduanas,Cuentas por pagar a entidades relacionadas
+2.1.04.001,Prestamos EERR C/P,Cuentas por pagar a entidades relacionadas
+2.1.04.003,Cta Cte Inv y Serv Amb D&G,Cuentas por pagar a entidades relacionadas
+2.1.05.001,Iva Debito Fiscal,Pasivos por impuestos corrientes
+2.1.05.002,Retencion 2da Categoria,Pasivos por impuestos corrientes
+2.1.05.006,Impuestos Por Pagar,Pasivos por impuestos 
+2.1.07.004,Anticipo de Clientes,Deudores comerciales y otras cuentas por cobrar corrientes
+2.1.08.006,Provisiones Varias,Cuentas por pagar comerciales y otras cuentas por pagar
+2.2.01.003,Prestamos EERR L/P,Pasivos financieros no corrientes
+2.2.01.005,Proyecto Ready to Built,Resultado acumulado
+2.2.01.006,Prestamo EERR USD LP,Pasivos financieros no corrientes
+2.3.01.001,Capital,Capital emitido
+2.3.02.001,Reserva Adopción NIIF,Reserva primera aplicación NIIF
+2.3.03.001,Utilidades / Perdidas Acumuladas,Resultado acumulado
+3.1.01.013,Materiales e Insumos de Trabajo,Gastos de administraciÃ³n
+3.1.01.031,Mantenimientos y Operaciones,Gastos de administraciÃ³n
+3.1.01.033,Transferencias de Energía,Gastos de administraciÃ³n
+3.2.01.002,Honorarios Profesionales,Gastos de administraciÃ³n
+3.2.03.003,Contribuciones Bienes Raices,Gastos de administraciÃ³n
+3.2.03.004,Consumos Basicos,Costo de ventas
+3.2.03.007,Mantenciones y Reparaciones,Costo de ventas
+3.2.04.001,Combustible,Gastos de administraciÃ³n
+3.2.04.003,Seguros,Gastos de administraciÃ³n
+3.2.04.005,Peajes,Gastos de administraciÃ³n
+3.2.05.004,Gastos Varios de Oficina,Gastos de administraciÃ³n
+3.2.05.015,Gastos Generales,Gastos de administraciÃ³n
+3.2.06.001,Asesorias,Gastos de administraciÃ³n
+3.2.07.001,Depreciacion del Ejercicio,Depreciación
+3.2.08.004,Comisiones Bancarias,Costo financiero
+3.2.08.008,Interes Préstamos EERR,Costo financiero
+3.2.10.001,Reajuste Remanente,Resultados por unidades de reajuste
+3.2.22.009,Diferencia tipo cambio,Resultados por unidades de reajuste
+4.1.01.004,Arriendo Propiedades EERR,Otros Ingresos
+4.1.01.007,Transferencias de Energía,Ingresos de actividades ordinarias
+4.1.03.001,Intereses Fondos Mutuos,Otros Ingresos
+4.1.03.007,Reajustes,Resultados por unidades de reajuste
