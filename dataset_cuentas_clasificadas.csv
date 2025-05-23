@@ -416,3 +416,849 @@ RESULTADO DEL EJERCICIO,RESULTADO DEL EJERCICIO,Resultado acumulado
 4203008000,COSTO VENTA ACTIVO FIJO,Otros gastos
 4204001000,INR,Otros gastos
 4210040000,INTERESES GANADOS ER,Otros Ingresos
+11010001,Caja,Efectivo y equivalentes al efectivo
+11010002,Caja moneda extranjera,Efectivo y equivalentes al efectivo
+11010003,Fondo Fijo,Efectivo y equivalentes al efectivo
+11010004,Compra/Venta Divisas (Cuenta Pte),Efectivo y equivalentes al efectivo
+11010005,Movimientos TR (Cuenta Pte.),Efectivo y equivalentes al efectivo
+11010100,Banco BCI $ - N° Cta: 3930,Efectivo y equivalentes al efectivo
+11010101,Banco BCI $ - N° Cta: 3930 - EGR,Efectivo y equivalentes al efectivo
+11010102,Banco BCI $ - N° Cta: 3930 - ING,Efectivo y equivalentes al efectivo
+11010110,Banco Santander $ - N° Cta: 5570,Efectivo y equivalentes al efectivo
+11010111,Banco Santander $ - N° Cta: 5570 - EGR,Efectivo y equivalentes al efectivo
+11010112,Banco Santander $ - N° Cta: 5570 - ING,Efectivo y equivalentes al efectivo
+11010120,Banco Santander $ - N° Cta: 6208,Efectivo y equivalentes al efectivo
+11010121,Banco Santander $ - N° Cta: 6208 - EGR,Efectivo y equivalentes al efectivo
+11010122,Banco Santander $ - N° Cta: 6208 - ING,Efectivo y equivalentes al efectivo
+11010130,Banco BCI $ - N° Cta: 9860,Efectivo y equivalentes al efectivo
+11010131,Banco BCI $ - N° Cta: 9860 - EGR,Efectivo y equivalentes al efectivo
+11010132,Banco BCI $ - N° Cta: 9860 - ING,Efectivo y equivalentes al efectivo
+11010140,Banco BCI $ - N° Cta: 9126,Efectivo y equivalentes al efectivo
+11010141,Banco BCI $ - N° Cta: 9126 - EGR,Efectivo y equivalentes al efectivo
+11010142,Banco BCI $ - N° Cta: 9126 - ING,Efectivo y equivalentes al efectivo
+11010150,Banco BCI $ - N° Cta: 6955,Efectivo y equivalentes al efectivo
+11010151,Banco BCI $ - N° Cta: 6955 - EGR,Efectivo y equivalentes al efectivo
+11010152,Banco BCI $ - N° Cta: 6955 - ING,Efectivo y equivalentes al efectivo
+11010160,Banco BCI $ - N° Cta: 5066,Efectivo y equivalentes al efectivo
+11010161,Banco BCI $ - N° Cta: 5066 - EGR,Efectivo y equivalentes al efectivo
+11010162,Banco BCI $ - N° Cta: 5066 - ING,Efectivo y equivalentes al efectivo
+11010170,Banco BCI $ - N° Cta: 4814,Efectivo y equivalentes al efectivo
+11010171,Banco BCI $ - N° Cta: 4814 - EGR,Efectivo y equivalentes al efectivo
+11010172,Banco BCI $ - N° Cta: 4814 - ING,Efectivo y equivalentes al efectivo
+11010180,Banco Chile $ - N° Cta: 9-07,Efectivo y equivalentes al efectivo
+11010181,Banco Chile $ - N° Cta: 9-07 - EGR,Efectivo y equivalentes al efectivo
+11010182,Banco Chile $ - N° Cta: 9-07 - ING,Efectivo y equivalentes al efectivo
+11010190,Banco Security $ - N° Cta: 7601,Efectivo y equivalentes al efectivo
+11010191,Banco Security $ - N° Cta: 7601 - EGR,Efectivo y equivalentes al efectivo
+11010192,Banco Security $ - N° Cta: 7601 - ING,Efectivo y equivalentes al efectivo
+11010200,Banco Scotiabank $ - N° Cta: 6-61,Efectivo y equivalentes al efectivo
+11010201,Banco Scotiabank $ - N° Cta: 6-61 - EGR,Efectivo y equivalentes al efectivo
+11010202,Banco Scotiabank $ - N° Cta: 6-61 - ING,Efectivo y equivalentes al efectivo
+11010210,Banco Bice $ - N° Cta: 80-1,Efectivo y equivalentes al efectivo
+11010211,Banco Bice $ - N° Cta: 80-1 - EGR,Efectivo y equivalentes al efectivo
+11010212,Banco Bice $ - N° Cta: 80-1 - ING,Efectivo y equivalentes al efectivo
+11010220,Banco Santander $ - N° Cta: 03-1,Efectivo y equivalentes al efectivo
+11010221,Banco Santander $ - N° Cta: 03-1 - EGR,Efectivo y equivalentes al efectivo
+11010222,Banco Santander $ - N° Cta: 03-1 - ING,Efectivo y equivalentes al efectivo
+11010230,Banco BCI $ - N° Cta: 2405,Efectivo y equivalentes al efectivo
+11010231,Banco BCI $ - N° Cta: 2405 - EGR,Efectivo y equivalentes al efectivo
+11010232,Banco BCI $ - N° Cta: 2405 - ING,Efectivo y equivalentes al efectivo
+11010240,Banco BCI $ - N° Cta: 4338,Efectivo y equivalentes al efectivo
+11010241,Banco BCI $ - N° Cta: 4338 - EGR,Efectivo y equivalentes al efectivo
+11010242,Banco BCI $ - N° Cta: 4338 - ING,Efectivo y equivalentes al efectivo
+11010250,Banco Santander $ - N° Cta: 31-4,Efectivo y equivalentes al efectivo
+11010251,Banco Santander $ - N° Cta: 31-4 - EGR,Efectivo y equivalentes al efectivo
+11010252,Banco Santander $ - N° Cta: 31-4 - ING,Efectivo y equivalentes al efectivo
+11010260,Banco Chile $ - N° Cta: 8-06,Efectivo y equivalentes al efectivo
+11010261,Banco Chile $ - N° Cta: 8-06 - EGR,Efectivo y equivalentes al efectivo
+11010262,Banco Chile $ - N° Cta: 8-06 - ING,Efectivo y equivalentes al efectivo
+11010270,Banco Bice $ - N° Cta: 72-0,Efectivo y equivalentes al efectivo
+11010271,Banco Bice $ - N° Cta: 72-0 - EGR,Efectivo y equivalentes al efectivo
+11010272,Banco Bice $ - N° Cta: 72-0 - ING,Efectivo y equivalentes al efectivo
+11010280,Banco BCI $ - N° Cta: 4346,Efectivo y equivalentes al efectivo
+11010281,Banco BCI $ - N° Cta: 4346 - EGR,Efectivo y equivalentes al efectivo
+11010282,Banco BCI $ - N° Cta: 4346 - ING,Efectivo y equivalentes al efectivo
+11010290,Banco BCI $ - N° Cta: 8127,Efectivo y equivalentes al efectivo
+11010291,Banco BCI $ - N° Cta: 8127 - EGR,Efectivo y equivalentes al efectivo
+11010292,Banco BCI $ - N° Cta: 8127 - ING,Efectivo y equivalentes al efectivo
+11010300,Banco Santander $ - N° Cta: 55-2,Efectivo y equivalentes al efectivo
+11010301,Banco Santander $ - N° Cta: 55-2 - EGR,Efectivo y equivalentes al efectivo
+11010302,Banco Santander $ - N° Cta: 55-2 - ING,Efectivo y equivalentes al efectivo
+11010310,Banco Chile $ - N° Cta: 6-00,Efectivo y equivalentes al efectivo
+11010311,Banco Chile $ - N° Cta: 6-00 - EGR,Efectivo y equivalentes al efectivo
+11010312,Banco Chile $ - N° Cta: 6-00 - ING,Efectivo y equivalentes al efectivo
+11010320,Banco BCI $ - N° Cta: 0031,Efectivo y equivalentes al efectivo
+11010321,Banco BCI $ - N° Cta: 0031 - EGR,Efectivo y equivalentes al efectivo
+11010322,Banco BCI $ - N° Cta: 0031 - ING,Efectivo y equivalentes al efectivo
+11010330,Banco Itau $ - N° Cta: 5528,Efectivo y equivalentes al efectivo
+11010331,Banco Itau $ - N° Cta: 5528 - EGR,Efectivo y equivalentes al efectivo
+11010332,Banco Itau $ - N° Cta: 5528 - ING,Efectivo y equivalentes al efectivo
+11010340,Banco BCI $ - N° Cta: 9908,Efectivo y equivalentes al efectivo
+11010341,Banco BCI $ - N° Cta: 9908 - EGR,Efectivo y equivalentes al efectivo
+11010342,Banco BCI $ - N° Cta: 9908 - ING,Efectivo y equivalentes al efectivo
+11010350,Banco BCI $ - N° Cta: 1657,Efectivo y equivalentes al efectivo
+11010351,Banco BCI $ - N° Cta: 1657 - EGR,Efectivo y equivalentes al efectivo
+11010352,Banco BCI $ - N° Cta: 1657 - ING,Efectivo y equivalentes al efectivo
+11010360,Banco Santander $ - N° Cta: 27-5,Efectivo y equivalentes al efectivo
+11010361,Banco Santander $ - N° Cta: 27-5 - EGR,Efectivo y equivalentes al efectivo
+11010362,Banco Santander $ - N° Cta: 27-5 - ING,Efectivo y equivalentes al efectivo
+11010370,Banco BCI $ - N° Cta: 4284,Efectivo y equivalentes al efectivo
+11010371,Banco BCI $ - N° Cta: 4284 - EGR,Efectivo y equivalentes al efectivo
+11010372,Banco BCI $ - N° Cta: 4284 - ING,Efectivo y equivalentes al efectivo
+11010380,Banco Santander $ - N° Cta: 5058,Efectivo y equivalentes al efectivo
+11010381,Banco Santander $ - N° Cta: 5058 - EGR,Efectivo y equivalentes al efectivo
+11010382,Banco Santander $ - N° Cta: 5058 - ING,Efectivo y equivalentes al efectivo
+11010390,Banco BCI $ - N° Cta: 6437,Efectivo y equivalentes al efectivo
+11010391,Banco BCI $ - N° Cta: 6437 - EGR,Efectivo y equivalentes al efectivo
+11010392,Banco BCI $ - N° Cta: 6437 - ING,Efectivo y equivalentes al efectivo
+11010400,Banco BCI $ - N° Cta: 8397,Efectivo y equivalentes al efectivo
+11010401,Banco BCI $ - N° Cta: 8397 - EGR,Efectivo y equivalentes al efectivo
+11010402,Banco BCI $ - N° Cta: 8397 - ING,Efectivo y equivalentes al efectivo
+11010410,Banco BICE $ - N° Cta: 83-2,Efectivo y equivalentes al efectivo
+11010411,Banco BICE $ - N° Cta: 83-2 - EGR,Efectivo y equivalentes al efectivo
+11010412,Banco BICE $ - N° Cta: 83-2 - ING,Efectivo y equivalentes al efectivo
+11010420,Banco BCI $ - N° Cta: 7692,Efectivo y equivalentes al efectivo
+11010421,Banco BCI $ - N° Cta: 7692 - EGR,Efectivo y equivalentes al efectivo
+11010422,Banco BCI $ - N° Cta: 7692 - ING,Efectivo y equivalentes al efectivo
+11010430,Banco Scotiabank $ - N° Cta: 6-11,Efectivo y equivalentes al efectivo
+11010431,Banco Scotiabank $ - N° Cta: 6-11 - EGR,Efectivo y equivalentes al efectivo
+11010432,Banco Scotiabank $ - N° Cta: 6-11 - ING,Efectivo y equivalentes al efectivo
+11010440,Banco BCI $ - N° Cta: 0480,Efectivo y equivalentes al efectivo
+11010441,Banco BCI $ - N° Cta: 0480 - EGR,Efectivo y equivalentes al efectivo
+11010442,Banco BCI $ - N° Cta: 0480 - ING,Efectivo y equivalentes al efectivo
+11010450,Banco BCI $ - N° Cta: 8553,Efectivo y equivalentes al efectivo
+11010451,Banco BCI $ - N° Cta: 8553 - EGR,Efectivo y equivalentes al efectivo
+11010452,Banco BCI $ - N° Cta: 8553 - ING,Efectivo y equivalentes al efectivo
+11010460,Banco BCI $ - N° Cta: 8612,Efectivo y equivalentes al efectivo
+11010461,Banco BCI $ - N° Cta: 8612 - EGR,Efectivo y equivalentes al efectivo
+11010462,Banco BCI $ - N° Cta: 8612 - ING,Efectivo y equivalentes al efectivo
+11010470,Banco BCI $ - N° Cta: 5236,Efectivo y equivalentes al efectivo
+11010471,Banco BCI $ - N° Cta: 5236 - EGR,Efectivo y equivalentes al efectivo
+11010472,Banco BCI $ - N° Cta: 5236 - ING,Efectivo y equivalentes al efectivo
+11010480,Banco BCI $ - N° Cta: 5426,Efectivo y equivalentes al efectivo
+11010481,Banco BCI $ - N° Cta: 5426 - EGR,Efectivo y equivalentes al efectivo
+11010482,Banco BCI $ - N° Cta: 5426 - ING,Efectivo y equivalentes al efectivo
+11010490,Banco BCI $ - N° Cta: 4718,Efectivo y equivalentes al efectivo
+11010491,Banco BCI $ - N° Cta: 4718 - EGR,Efectivo y equivalentes al efectivo
+11010492,Banco BCI $ - N° Cta: 4718 - ING,Efectivo y equivalentes al efectivo
+11010500,Banco BCI $ - N° Cta: 1074,Efectivo y equivalentes al efectivo
+11010501,Banco BCI $ - N° Cta: 1074 - EGR,Efectivo y equivalentes al efectivo
+11010502,Banco BCI $ - N° Cta: 1074 - ING,Efectivo y equivalentes al efectivo
+11010510,Banco Itau $ - N° Cta: 7666,Efectivo y equivalentes al efectivo
+11010511,Banco Itau $ - N° Cta: 7666 - EGR,Efectivo y equivalentes al efectivo
+11010512,Banco Itau $ - N° Cta: 7666 - ING,Efectivo y equivalentes al efectivo
+11010520,Banco BCI $ - N° Cta: 8791,Efectivo y equivalentes al efectivo
+11010521,Banco BCI $ - N° Cta: 8791 - EGR,Efectivo y equivalentes al efectivo
+11010522,Banco BCI $ - N° Cta: 8791 - ING,Efectivo y equivalentes al efectivo
+11010530,Banco BCI $ - N° Cta: 8567,Efectivo y equivalentes al efectivo
+11010531,Banco BCI $ - N° Cta: 8567 - EGR,Efectivo y equivalentes al efectivo
+11010532,Banco BCI $ - N° Cta: 8567 - ING,Efectivo y equivalentes al efectivo
+11010540,Banco BCI $ - N° Cta: 4700,Efectivo y equivalentes al efectivo
+11010541,Banco BCI $ - N° Cta: 4700 - EGR,Efectivo y equivalentes al efectivo
+11010542,Banco BCI $ - N° Cta: 4700 - ING,Efectivo y equivalentes al efectivo
+11010550,Banco BCI $ - N° Cta: 3331,Efectivo y equivalentes al efectivo
+11010551,Banco BCI $ - N° Cta: 3331 - EGR,Efectivo y equivalentes al efectivo
+11010552,Banco BCI $ - N° Cta: 3331 - ING,Efectivo y equivalentes al efectivo
+11010560,Banco BCI $ - N° Cta: 1244,Efectivo y equivalentes al efectivo
+11010561,Banco BCI $ - N° Cta: 1244 - EGR,Efectivo y equivalentes al efectivo
+11010562,Banco BCI $ - N° Cta: 1244 - ING,Efectivo y equivalentes al efectivo
+11010570,Banco BCI $ - N° Cta: 4073,Efectivo y equivalentes al efectivo
+11010571,Banco BCI $ - N° Cta: 4073 - EGR,Efectivo y equivalentes al efectivo
+11010572,Banco BCI $ - N° Cta: 4073 - ING,Efectivo y equivalentes al efectivo
+11010580,Banco BCI $ - N° Cta: 3875,Efectivo y equivalentes al efectivo
+11010581,Banco BCI $ - N° Cta: 3875 - EGR,Efectivo y equivalentes al efectivo
+11010582,Banco BCI $ - N° Cta: 3875 - ING,Efectivo y equivalentes al efectivo
+11010590,Banco BCI $ - N° Cta: 4065,Efectivo y equivalentes al efectivo
+11010591,Banco BCI $ - N° Cta: 4065 - EGR,Efectivo y equivalentes al efectivo
+11010592,Banco BCI $ - N° Cta: 4065 - ING,Efectivo y equivalentes al efectivo
+11010600,Banco BCI $ - N° Cta: 8770,Efectivo y equivalentes al efectivo
+11010601,Banco BCI $ - N° Cta: 8770 - EGR,Efectivo y equivalentes al efectivo
+11010602,Banco BCI $ - N° Cta: 8770 - ING,Efectivo y equivalentes al efectivo
+11010610,Banco Chile $ - N° Cta: 5019,Efectivo y equivalentes al efectivo
+11010611,Banco Chile $ - N° Cta: 5019 - EGR,Efectivo y equivalentes al efectivo
+11010612,Banco Chile $ - N° Cta: 5019 - ING,Efectivo y equivalentes al efectivo
+11010620,Banco BCI $ - N° Cta: 1414,Efectivo y equivalentes al efectivo
+11010621,Banco BCI $ - N° Cta: 1414 - EGR,Efectivo y equivalentes al efectivo
+11010622,Banco BCI $ - N° Cta: 1414 - ING,Efectivo y equivalentes al efectivo
+11010630,Banco BCI $ - N° Cta: 5746,Efectivo y equivalentes al efectivo
+11010631,Banco BCI $ - N° Cta: 5746 - EGR,Efectivo y equivalentes al efectivo
+11010632,Banco BCI $ - N° Cta: 5746 - ING,Efectivo y equivalentes al efectivo
+11010640,Banco BCI $ - N° Cta: 3467,Efectivo y equivalentes al efectivo
+11010641,Banco BCI $ - N° Cta: 3467 - EGR,Efectivo y equivalentes al efectivo
+11010642,Banco BCI $ - N° Cta: 3467 - ING,Efectivo y equivalentes al efectivo
+11010650,Banco BCI $ - N° Cta: 6445,Efectivo y equivalentes al efectivo
+11010651,Banco BCI $ - N° Cta: 6445 - EGR,Efectivo y equivalentes al efectivo
+11010652,Banco BCI $ - N° Cta: 6445 - ING,Efectivo y equivalentes al efectivo
+11010660,Banco Santander $ - N° Cta: 1817,Efectivo y equivalentes al efectivo
+11010661,Banco Santander $ - N° Cta: 1817 - EGR,Efectivo y equivalentes al efectivo
+11010662,Banco Santander $ - N° Cta: 1817 - ING,Efectivo y equivalentes al efectivo
+11010670,Banco Consorcio $ - N° Cta: 0988,Efectivo y equivalentes al efectivo
+11010671,Banco Consorcio $ - N° Cta: 0988 - EGR,Efectivo y equivalentes al efectivo
+11010672,Banco Consorcio $ - N° Cta: 0988 - ING,Efectivo y equivalentes al efectivo
+11010680,Banco Santander $ - N° Cta: 1066,Efectivo y equivalentes al efectivo
+11010681,Banco Santander $ - N° Cta: 1066 - EGR,Efectivo y equivalentes al efectivo
+11010682,Banco Santander $ - N° Cta: 1066 - ING,Efectivo y equivalentes al efectivo
+11012000,Banco BCI USD - N° Cta: 6870,Efectivo y equivalentes al efectivo
+11012001,Banco BCI USD - N° Cta: 6870 - EGR,Efectivo y equivalentes al efectivo
+11012002,Banco BCI USD - N° Cta: 6870 - ING,Efectivo y equivalentes al efectivo
+11012010,Banco Citibank USD - N° Cta: 4975,Efectivo y equivalentes al efectivo
+11012011,Banco Citibank USD - N° Cta: 4975 - EGR,Efectivo y equivalentes al efectivo
+11012012,Banco Citibank USD - N° Cta: 4975 - ING,Efectivo y equivalentes al efectivo
+11012020,Banco Bice USD - N° Cta: 62-1,Efectivo y equivalentes al efectivo
+11012021,Banco Bice USD - N° Cta: 62-1 - EGR,Efectivo y equivalentes al efectivo
+11012022,Banco Bice USD - N° Cta: 62-1 - ING,Efectivo y equivalentes al efectivo
+11012030,Banco Santander USD - N° Cta: 42-0,Efectivo y equivalentes al efectivo
+11012031,Banco Santander USD - N° Cta: 42-0 - EGR,Efectivo y equivalentes al efectivo
+11012032,Banco Santander USD - N° Cta: 42-0 - ING,Efectivo y equivalentes al efectivo
+11012040,Banco BCI USD - N° Cta: 4582,Efectivo y equivalentes al efectivo
+11012041,Banco BCI USD - N° Cta: 4582 - EGR,Efectivo y equivalentes al efectivo
+11012042,Banco BCI USD - N° Cta: 4582 - ING,Efectivo y equivalentes al efectivo
+11012050,Banco BCI USD - N° Cta: 4566,Efectivo y equivalentes al efectivo
+11012051,Banco BCI USD - N° Cta: 4566 - EGR,Efectivo y equivalentes al efectivo
+11012052,Banco BCI USD - N° Cta: 4566 - ING,Efectivo y equivalentes al efectivo
+11012060,Banco Santander USD - N° Cta: 41-2,Efectivo y equivalentes al efectivo
+11012061,Banco Santander USD - N° Cta: 41-2 - EGR,Efectivo y equivalentes al efectivo
+11012062,Banco Santander USD - N° Cta: 41-2 - ING,Efectivo y equivalentes al efectivo
+11012070,Banco Bice USD - N° Cta: 58-3,Efectivo y equivalentes al efectivo
+11012071,Banco Bice USD - N° Cta: 58-3 - EGR,Efectivo y equivalentes al efectivo
+11012072,Banco Bice USD - N° Cta: 58-3 - ING,Efectivo y equivalentes al efectivo
+11012080,Banco BCI USD - N° Cta: 4574,Efectivo y equivalentes al efectivo
+11012081,Banco BCI USD - N° Cta: 4574 - EGR,Efectivo y equivalentes al efectivo
+11012082,Banco BCI USD - N° Cta: 4574 - ING,Efectivo y equivalentes al efectivo
+11012090,Banco BICE USD - N° Cta: 03-5,Efectivo y equivalentes al efectivo
+11012091,Banco BICE USD - N° Cta: 03-5 - EGR,Efectivo y equivalentes al efectivo
+11012092,Banco BICE USD - N° Cta: 03-5 - ING,Efectivo y equivalentes al efectivo
+11012100,Banco Citibank USD - N° Cta: 9878,Efectivo y equivalentes al efectivo
+11012101,Banco Citibank USD - N° Cta: 9878 - EGR,Efectivo y equivalentes al efectivo
+11012102,Banco Citibank USD - N° Cta: 9878 - ING,Efectivo y equivalentes al efectivo
+11012110,Banco BCI USD - N° Cta: 3196,Efectivo y equivalentes al efectivo
+11012111,Banco BCI USD - N° Cta: 3196 - EGR,Efectivo y equivalentes al efectivo
+11012112,Banco BCI USD - N° Cta: 3196 - ING,Efectivo y equivalentes al efectivo
+11012120,Banco BCI USD - N° Cta: 1306,Efectivo y equivalentes al efectivo
+11012121,Banco BCI USD - N° Cta: 1306 - EGR,Efectivo y equivalentes al efectivo
+11012122,Banco BCI USD - N° Cta: 1306 - ING,Efectivo y equivalentes al efectivo
+11012130,Banco BCI USD - N° Cta: 3813,Efectivo y equivalentes al efectivo
+11012131,Banco BCI USD - N° Cta: 3813 - EGR,Efectivo y equivalentes al efectivo
+11012132,Banco BCI USD - N° Cta: 3813 - ING,Efectivo y equivalentes al efectivo
+11012140,Banco BCI USD - N° Cta: 5039,Efectivo y equivalentes al efectivo
+11012141,Banco BCI USD - N° Cta: 5039 - EGR,Efectivo y equivalentes al efectivo
+11012142,Banco BCI USD - N° Cta: 5039 - ING,Efectivo y equivalentes al efectivo
+11012150,Banco Chile USD - N° Cta: 0108,Efectivo y equivalentes al efectivo
+11012151,Banco Chile USD - N° Cta: 0108 - EGR,Efectivo y equivalentes al efectivo
+11012152,Banco Chile USD - N° Cta: 0108 - ING,Efectivo y equivalentes al efectivo
+11012160,Banco UBS USD - N° Cta: 9960,Efectivo y equivalentes al efectivo
+11012161,Banco UBS USD - N° Cta: 9960 - EGR,Efectivo y equivalentes al efectivo
+11012162,Banco UBS USD - N° Cta: 9960 - ING,Efectivo y equivalentes al efectivo
+11012170,Banco BCI USD - N° Cta: 4160,Efectivo y equivalentes al efectivo
+11012171,Banco BCI USD - N° Cta: 4160 - EGR,Efectivo y equivalentes al efectivo
+11012172,Banco BCI USD - N° Cta: 4160 - ING,Efectivo y equivalentes al efectivo
+11012180,Banco BCI USD - N° Cta: 4178,Efectivo y equivalentes al efectivo
+11012181,Banco BCI USD - N° Cta: 4178 - EGR,Efectivo y equivalentes al efectivo
+11012182,Banco BCI USD - N° Cta: 4178 - ING,Efectivo y equivalentes al efectivo
+11012190,Banco Santander USD - N° Cta: 5487,Efectivo y equivalentes al efectivo
+11012191,Banco Santander USD - N° Cta: 5487 - EGR,Efectivo y equivalentes al efectivo
+11012192,Banco Santander USD - N° Cta: 5487 - ING,Efectivo y equivalentes al efectivo
+11012200,Banco Santander USD - N° Cta: 9777,Efectivo y equivalentes al efectivo
+11012201,Banco Santander USD - N° Cta: 9777 - EGR,Efectivo y equivalentes al efectivo
+11012212,Banco BCI USD - N° Cta: 7756 - ING,Efectivo y equivalentes al efectivo
+11012210,Banco BCI USD - N° Cta: 7756,Efectivo y equivalentes al efectivo
+11012202,11012202 Banco Santander USD - N° Cta: 9777 - ING,Efectivo y equivalentes al efectivo
+11012211,11012211 Banco BCI USD - N° Cta: 7756 - EGR,Efectivo y equivalentes al efectivo
+11012300,11012300 Banco Chile USD - N° Cta: 7901,Efectivo y equivalentes al efectivo
+11012301,11012301 Banco Chile USD - N° Cta: 7901 - EGR,Efectivo y equivalentes al efectivo
+11012302,11012302 Banco Chile USD - N° Cta: 7901 - ING,Efectivo y equivalentes al efectivo
+11012400,11012400 Banco ITAU USD - N° Cta: 5496,Efectivo y equivalentes al efectivo
+11012401,11012401 Banco ITAU USD - N° Cta: 5496 - EGR,Efectivo y equivalentes al efectivo
+11012402,11012402 Banco ITAU USD - N° Cta: 5496 - ING,Efectivo y equivalentes al efectivo
+11019999,Dif. Cambio Bancos,Efectivo y equivalentes al efectivo
+11020001,Depositos a Plazo,Efectivo y equivalentes al efectivo
+11030001,Fondos Mutuos,Efectivo y equivalentes al efectivo
+11030004,Otros Valores Negociables,Efectivo y equivalentes al efectivo
+11030002,Acciones,Efectivo y equivalentes al efectivo
+11030003,Otros Valores Negociables,Efectivo y equivalentes al efectivo
+11030999,DC Inversiones,Efectivo y equivalentes al efectivo
+11039999,Dif. Cambio Disponible,Efectivo y equivalentes al efectivo
+11040100,Deudores nacional,Deudores comerciales y otras cuentas por cobrar corrientes
+11040200,Deudores extranjero,Deudores comerciales y otras cuentas por cobrar corrientes
+11040299,Dif. Cambio Deudores,Deudores comerciales y otras cuentas por cobrar corrientes
+11050100,Retencion de garantia (deudores),Deudores comerciales y otras cuentas por cobrar corrientes
+11050200,Otros Documentos por Cobrar,Deudores comerciales y otras cuentas por cobrar corrientes
+11060001,Deudores varios,Deudores comerciales y otras cuentas por cobrar corrientes
+11060002,Otros Deudores Varios,Deudores comerciales y otras cuentas por cobrar corrientes
+11060100,Prestamo al personal,Deudores comerciales y otras cuentas por cobrar corrientes
+11060101,Seguro Cesantia,Deudores comerciales y otras cuentas por cobrar corrientes
+11060102,Anticipos al personal,Deudores comerciales y otras cuentas por cobrar corrientes
+11060103,Prestamo Blando Trabajador,Deudores comerciales y otras cuentas por cobrar corrientes
+11060104,Anticipo Extra Trabajador,Deudores comerciales y otras cuentas por cobrar corrientes
+11060105,Anticipo sobregiro remuneraciones,Deudores comerciales y otras cuentas por cobrar corrientes
+11060106,Anticipo IAS,Provisiones no corrientes por beneficios a los empleados
+11060200,Gastos pagados por anticipado,Deudores comerciales y otras cuentas por cobrar corrientes
+11060300,Anticipo a Proveedores,Cuentas por pagar comerciales y otras cuentas por pagar, corrientes
+11060301,Anticipo de Proyectos,Deudores comerciales y otras cuentas por cobrar corrientes
+11060302,Liq. Anticipo de Proyectos,Deudores comerciales y otras cuentas por cobrar corrientes
+11060303,Seguros Pagados por Anticipados,Deudores comerciales y otras cuentas por cobrar corrientes
+11060400,Anticipo Honorarios,Cuentas por pagar comerciales y otras cuentas por pagar, corrientes
+11060500,Fondos por Rendir,Deudores comerciales y otras cuentas por cobrar corrientes
+11060600,Cargos por Distribuir,Deudores comerciales y otras cuentas por cobrar corrientes
+11070100,Deudores EERR,Cuentas por cobrar a entidades relacionadas, corrientes
+11070101,Otros Deudores EERR,Cuentas por cobrar a entidades relacionadas, corrientes
+11070200,Deudores EERR No Cons.,Cuentas por cobrar a entidades relacionadas, corrientes
+11070201,Otros Deudores EERR No Cons.,Cuentas por cobrar a entidades relacionadas, corrientes
+11070202,CXC Empresas Relacionadas,Cuentas por cobrar a entidades relacionadas, corrientes
+11070300,Cta Mercantil Quimpro,Cuentas por cobrar a entidades relacionadas, corrientes
+11070301,Cta Mercantil Quimpro No Cons.,Cuentas por cobrar a entidades relacionadas, corrientes
+11079999,Dif. Cambio Deudores EERR,Cuentas por cobrar a entidades relacionadas, corrientes
+11080001,Impuestos por recuperar,Activos por impuestos corrientes
+11080002,IVA retenido fact. compra por venta chatarra,Activos por impuestos corrientes
+11081001,IVA Credito Fiscal,Activos por impuestos corrientes
+11081002,Impuesto a Combustible,Activos por impuestos corrientes
+11081003,I.V.A. Credito Fiscal Exportador,Activos por impuestos corrientes
+11081004,Credito por Sence,Activos por impuestos corrientes
+11081005,Credito por Donaciones,Activos por impuestos corrientes
+11081006,Credito Inversion Activo Fijo (Art 33 Bis),Activos por impuestos corrientes
+11081007,Credito Activo (Art 27 Bis),Activos por impuestos corrientes
+11081008,Provision IVA Credito,Activos por impuestos corrientes
+11090001,Mineral en Stock Mina,Inventarios corrientes
+11090002,Mineral en Cancha,Inventarios corrientes
+11090003,Catodos CU,Inventarios corrientes
+11090004,Mineral Dore,Inventarios corrientes
+11090005,Mineral Carbón Activado,Inventarios corrientes
+11090006,Traspaso Carbón Activado,Inventarios corrientes
+11090010,Material Bodega en Transito (Cta Pte Transitoria),Inventarios corrientes
+11090011,Material en Bodega (No Modulo),Inventarios corrientes
+11090012,Material en Bodega (Dif. Grupo C + D),Inventarios corrientes
+11090090,Material en Bodega C - SAP,Inventarios corrientes
+11090098,Material en Bodega (Dif. CM Bod. A),Inventarios corrientes
+11090099,Material en Bodega,Inventarios corrientes
+11095000,Productos Agricolas,Inventarios corrientes
+11095999,DC Inventarios,Inventarios corrientes
+11110001,Otros activos circulantes,Otros activos circulantes
+11120001,Contratos de leasing,Pasivos financieros corrientes
+11120002,Interes Leasing Corto Plazo,Pasivos financieros corrientes
+11130001,Activos para leasing,Pasivos financieros corrientes
+11130999,DC Leasing ,Pasivos financieros corrientes
+11140001,Pagos Provisionales Mensuales Renta (PPM),Activos por impuestos corrientes
+11140002,Pagos Provisionales Mensuales Royalty (PPM),Activos por impuestos corrientes
+11150101,Impuestos Diferidos Renta CP,Activos por impuestos diferidos
+11150102,Impuestos Diferidos Royalty CP,Activos por impuestos diferidos
+11999999,Dif. Cambio Otros Activos Circulantes,Activos por impuestos corrientes
+12010001,Terrenos, derechos similares sobre terrenos,Propiedades, planta y equipo
+12010002,Terrenos (No Modulo),Propiedades, planta y equipo
+12011001,Edificios y Construcciones,Propiedades, planta y equipo
+12011002,Edificios y Construcciones (No Modulo),Propiedades, planta y equipo
+12012001,Maquinas y equipos,Propiedades, planta y equipo
+12012002,Maquinas y Equipos (No Modulo),Propiedades, planta y equipo
+12013001,Muebles y Enseres,Propiedades, planta y equipo
+12013002,Muebles Y Enseres (No Modulo),Propiedades, planta y equipo
+12014001,Vehiculos,Propiedades, planta y equipo
+12014002,Vehiculos (No Modulo),Propiedades, planta y equipo
+12015001,Hardware y Equipos computacionales,Propiedades, planta y equipo
+12015002,Hardware y Equipos Comput. (No Modulo),Propiedades, planta y equipo
+12016001,Activos fijos en Leasing,Propiedades, planta y equipo
+12016002,Activo fijo en Leasing (No Modulo),Propiedades, planta y equipo
+12017001,Pertenencias mineras,Propiedades, planta y equipo
+12017002,Pertenencias mineras (No Modulo),Propiedades, planta y equipo
+12018001,Stripping Cost / Desarrollo Mina,Propiedades, planta y equipo
+12018002,Pre Stripping,Propiedades, planta y equipo
+12019001,Otros Activos Fijos,Propiedades, planta y equipo
+12019002,Obras en Curso,Propiedades, planta y equipo
+12019003,Proyectos No Mineros,Propiedades, planta y equipo
+12019004,Otros Activos Fijos (No Modulo),Propiedades, planta y equipo
+12019005,Obras en Curso (No Modulo),Propiedades, planta y equipo
+12019006,Activo por derecho de uso,Propiedades, planta y equipo
+12019007,Activo Cierre de mina,Propiedades, planta y equipo
+12019998,CM Activo Fijo Modular,Propiedades, planta y equipo
+12019999,Cuenta Tecnica de Activos Fijos,Propiedades, planta y equipo
+12100001,Deprec. Acum. Terrenos,Propiedades, planta y equipo
+12100101,Deprec. Acum. Construcciones y edificios,Propiedades, planta y equipo
+12100201,Depreciacion Acumulada Maquinas y equipos,Propiedades, planta y equipo
+12100301,Depreciacion acumulada mobiliario y enseres,Propiedades, planta y equipo
+12100401,Depreciacion  Acumulada Vehiculos,Propiedades, planta y equipo
+12100501,Depreciacion Acumulada Hardware - Eq. Computacion,Propiedades, planta y equipo
+12100601,Depreciacion Acumulada AF en Leasing,Propiedades, planta y equipo
+12100701,Amortizacion Pertenencias Mineras,Propiedades, planta y equipo
+12100801,Amortizacion acumulada Stripping,Propiedades, planta y equipo
+12100901,Depreciacion acumulada Otros Activos,Propiedades, planta y equipo
+12100996,Depreciacion Acumulada Activo Cierre de mina,Propiedades, planta y equipo
+12100997,Depreciacion Acumulada Arriendos,Propiedades, planta y equipo
+12100998,CM Depreciación Acumulada Modular,Propiedades, planta y equipo
+12100999,Depreciacion Acumulada (No Modulo),Propiedades, planta y equipo
+12199999,DC Activo Fijo,Propiedades, planta y equipo
+13010001,Inversiones en EERR,Inversiones contabilizadas utilizando el método de costo
+13010002,Inversiones en EERR No Cons.,Inversiones contabilizadas utilizando el método de costo
+13010003,Dividendos por Cobrar,Inversiones contabilizadas utilizando el método de costo
+13019999,Dif. Cambio Inv EERR,Inversiones contabilizadas utilizando el método de costo
+13025001,Inversiones en otras sociedades,Inversiones contabilizadas utilizando el método de costo
+13026001,Menor valor de inversiones,Inversiones contabilizadas utilizando el método de costo
+13027001,Mayor valor de inversiones,Inversiones contabilizadas utilizando el método de costo
+13027002,Mayor valor de inversiones,Inversiones contabilizadas utilizando el método de costo
+13030001,Deudores a LP,Cuentas por cobrar no corrientes
+13030002,Deudores a LP Sin Correccion Mon.,Cuentas por cobrar no corrientes
+13035001,Dctos.y ctas. por cobrar EERR LP,Cuentas por cobrar a entidades relacionadas, no corrientes
+13035002,Dctos.y ctas. por cobrar EERR No Cons. LP,Cuentas por cobrar a entidades relacionadas, no corrientes
+13035999,Dif. Cambio Otros Doc EERR LP,Cuentas por cobrar a entidades relacionadas, no corrientes
+13040001,Intangibles,Activos intangibles distintos de la plusvalía
+13040100,Licencias de mantenimiento de software,Activos intangibles distintos de la plusvalía
+13040200,Patentes,Activos por impuestos corrientes
+13040300,Derechos en Sociedades,Inversiones contabilizadas utilizando el método de costo
+13040301,Derechos en Sociedades,Inversiones contabilizadas utilizando el método de costo
+13040302,Derechos en Sociedades CM,Inversiones contabilizadas utilizando el método de costo
+13050001,Amortizacion,Activos intangibles distintos de la plusvalía
+13050100,Amortiz. Licencias de mantenimiento de software,Activos intangibles distintos de la plusvalía
+13050200,Amortizacion patentes,Activos intangibles distintos de la plusvalía
+13050999,DC Intangible,Activos por impuestos corrientes
+13080001,Otros Activos,Otros activos no circulantes
+13080101,Imptos Diferidos Renta LP,Activos por impuestos diferidos
+13080102,Imptos Diferidos Royalty LP,Activos por impuestos diferidos
+13080105,Imptos Diferidos Renta LP,Activos por impuestos diferidos
+13080106,Imptos Diferidos Renta LP,Activos por impuestos diferidos
+13080107,Imptos Diferidos Renta LP,Activos por impuestos diferidos
+13080108,Imptos Diferidos Renta LP,Activos por impuestos diferidos
+13080109,Imptos Diferidos Renta LP,Activos por impuestos diferidos
+13090001,Mineral,Inventarios no corrientes
+13090002,Mineral Dore,Inventarios no corrientes
+13100001,Contratos de leasing LP,Pasivos financieros no corrientes
+13100002,Interes Leasing Largo Plazo,Pasivos financieros no corrientes
+13999999,Dif. Cambio Otros Activos,Cuentas por cobrar no corrientes
+21010001,Prestamos CP,Pasivos financieros corrientes
+21010002,Tarjetas Creditos,Pasivos financieros corrientes
+21010003,Intereses Devengados,Pasivos financieros corrientes
+21010004,Obligaciones Leasing CP,Pasivos financieros corrientes
+21010999,DC CxP Leasing ,Pasivos financieros corrientes
+21051000,Acreedores nacional,Cuentas por pagar comerciales y otras cuentas por pagar, corrientes
+21052000,Acreedores extranjero,Cuentas por pagar comerciales y otras cuentas por pagar, corrientes
+21052500,Honorarios por pagar,Cuentas por pagar comerciales y otras cuentas por pagar, corrientes
+21052999,Dif. Cambios Acreedores Extranjeros,Cuentas por pagar comerciales y otras cuentas por pagar, corrientes
+21053000,Acreedores varios,Cuentas por pagar comerciales y otras cuentas por pagar, corrientes
+21054000,Consignaciones por Pagar,Cuentas por pagar comerciales y otras cuentas por pagar, corrientes
+21055000,Otros Acreedores,Cuentas por pagar comerciales y otras cuentas por pagar, corrientes
+21060001,Provisiones Varias,Provisiones corrientes
+21060002,Rechazos Bancarios,Cuentas por pagar comerciales y otras cuentas por pagar, corrientes
+21060003,Devoluciones Bancarias,Cuentas por pagar comerciales y otras cuentas por pagar, corrientes
+21060004,Estimación Deudores Incobrables,Cuentas por pagar comerciales y otras cuentas por pagar, corrientes
+21060005,Dividendos por Pagar,Cuentas por pagar comerciales y otras cuentas por pagar, corrientes
+21070100,Acreedores EERR,Cuentas por pagar a entidades relacionadas, corrientes
+21070101,Otros Acreedores EERR,Cuentas por pagar a entidades relacionadas, corrientes
+21070102,Provisiones Varias EERR,Cuentas por pagar a entidades relacionadas, corrientes
+21070200,Acreedores EERR No Cons.,Cuentas por pagar a entidades relacionadas, corrientes
+21070201,Otros Acreedores EERR No Cons.,Cuentas por pagar a entidades relacionadas, corrientes
+21070202,CXP Empresas Relacionadas,Cuentas por pagar a entidades relacionadas, corrientes
+21070203,Provisiones Varias EERR No Cons.,Cuentas por pagar a entidades relacionadas, corrientes
+21079999,Dif. Cambios Acreedores EERR,Cuentas por pagar a entidades relacionadas, corrientes
+21080001,Comp. FXR EM/RF,Cuentas por pagar comerciales y otras cuentas por pagar, corrientes
+21080002,Comp. FXR EM/RF,Cuentas por pagar comerciales y otras cuentas por pagar, corrientes
+21080004,Provisiones Varias CxP / Otros Acreedores,Provisiones corrientes
+21080005,Facturas por Recibir (No Modulo),Cuentas por pagar comerciales y otras cuentas por pagar, corrientes
+21085001,IVA Debito Fiscal,Pasivos por impuestos corrientes
+21085002,IVA Debito Fiscal Retenido,Pasivos por impuestos corrientes
+21085010,Retencion Impuesto unico,Pasivos por impuestos corrientes
+21085011,Retención Impuesto 2da Categoria (10%),Pasivos por impuestos corrientes
+21085012,Retención Minerales,Pasivos por impuestos corrientes
+21085013,Retención extraordinario covid-19,Pasivos por impuestos corrientes
+21085020,Retencion Impuesto Adicional,Pasivos por impuestos corrientes
+21085100,Retenciones Proveedores,Cuentas por pagar comerciales y otras cuentas por pagar, corrientes
+21122001,Remuneraciones por pagar,Cuentas por pagar comerciales y otras cuentas por pagar, corrientes
+21122002,Instit. Previsionales,Cuentas por pagar comerciales y otras cuentas por pagar, corrientes
+21122003,Descuentos al personal,Cuentas por pagar comerciales y otras cuentas por pagar, corrientes
+21122004,Finiquitos por Pagar,Cuentas por pagar comerciales y otras cuentas por pagar, corrientes
+21122006,Descuento Covid-19,Cuentas por pagar comerciales y otras cuentas por pagar, corrientes
+21122007,Obligaciones varias con terceros (RR.HH),Cuentas por pagar comerciales y otras cuentas por pagar, corrientes
+21122008,Pasivo por Derecho de uso CP,Cuentas por pagar comerciales y otras cuentas por pagar, corrientes
+21122009,Pasivo por Derecho de uso LP,Cuentas por pagar no corrientes
+21122010,Provisión Cierre de Minas,Provisiones no corrientes
+21130001,PPM x Pagar Renta,Pasivos por impuestos corrientes
+21130002,PPM x Pagar Royalty,Pasivos por impuestos corrientes
+21130003,Provision Impto. Renta,Pasivos por impuestos corrientes
+21130004,Provision Impto. Royalty,Pasivos por impuestos corrientes
+21130005,Provision Impto Gasto Rechazado,Pasivos por impuestos corrientes
+21140100,Anticipo Deudores,Deudores comerciales y otras cuentas por cobrar corrientes
+21150001,Impuestos Diferidos Renta CP,Pasivo por impuestos diferidos
+21150002,Impuestos Diferidos Royalty CP,Pasivo por impuestos diferidos
+21150003,Impuestos Diferidos Renta CP,Pasivo por impuestos diferidos
+21150004,Impuestos Diferidos Royalty CP,Pasivo por impuestos diferidos
+21160001,Otros pasivos circulantes,Otros pasivos corrientes
+21999999,Dif. Cambio Otros Pasivos Circulantes,Pasivos financieros corrientes
+22010001,Prestamos LP,Pasivos financieros no corrientes
+22010002,Prestamos LP SCM,Pasivos financieros no corrientes
+22020001,Cta Mercantil Quimpro,Cuentas por pagar a entidades relacionadas, no corrientes
+22030001,Otros Documentos por pagar LP,Cuentas por pagar a entidades relacionadas, no corrientes
+22040001,Acreedores varios LP,Cuentas por pagar a entidades relacionadas, no corrientes
+22040999,Dif. Cambio Pasivos financieros no corrientes,Pasivos financieros no corrientes
+22047100,Doctos. y cuentas por pagar EERR LP,Cuentas por pagar a entidades relacionadas, no corrientes
+22047200,Doctos. y cuentas por pagar EERR No Cons. LP,Cuentas por pagar a entidades relacionadas, no corrientes
+22047999,Dif. Cambio Otras CXP EERR,Cuentas por pagar a entidades relacionadas, no corrientes
+22050001,Provisiones Varias LP,Provisiones no corrientes
+22050002,Provision IAS,Provisiones no corrientes por beneficios a los empleados
+22050003,Provision Vacaciones,Provisiones corrientes por beneficios a los empleados
+22050004,Provision Bono Reliquidable,Provisiones corrientes por beneficios a los empleados
+22060001,Impuestos diferidos LP,Pasivo por impuestos diferidos
+22060002,Impuestos diferidos Royalty LP,Pasivo por impuestos diferidos
+22060004,Impuestos diferidos Royalty LP,Pasivo por impuestos diferidos
+22070001,Otros pasivos LP,Otros pasivos no corrientes
+22999999,Dif. Cambio Otros Pasivos Largo Plazo,Pasivos financieros no corrientes
+23010001,Capital social,Capital emitido
+23010002,Capital x Enterar,Capital emitido
+23010003,Revalorizacion Capital,Capital emitido
+23010004,Revalorizacion Capital,Capital emitido
+23020001,Reserva-capital,Otras reservas
+23052000,Otras reservas,Reservas por variación tipo de cambio
+23055000,Resultado ejercicio,Resultado acumulado
+23057001,Resultado Acumulado,Resultado acumulado
+23057002,Dividendos provisorios,Resultado acumulado
+23999999,Dif. Cambio Patrimonio,Otras reservas
+50000002,I. x Venta de Cátodos Nacionales,Ingresos ordinarios
+51100001,I. x Venta de Catodos Exportacion,Ingresos ordinarios
+51100002,I. x Venta de Cátodos Nacional,Ingresos ordinarios
+51100003,I. x Venta de Concentrado CU Exportacion,Ingresos ordinarios
+51100004,I. x Venta de Concentrado CU Nacional,Ingresos ordinarios
+51100005,I. x Venta de AU Exportacion,Ingresos ordinarios
+51100006,I. x Venta de Doré Nacional,Ingresos ordinarios
+51100007,I. x Venta de AG Exportacion,Ingresos ordinarios
+51100009,I. x Venta de Dore Exportacion,Ingresos ordinarios
+51100011,I. x Venta Minerales,Ingresos ordinarios
+51100012,I. x Venta Carbon Ac. EERR,Ingresos ordinarios
+51100013,I. x Venta acido EERR,Ingresos ordinarios
+51100014,I. x Venta Minerales EERR,Ingresos ordinarios
+51100111,Ing. Liquidacion Exp. Catodos,Ingresos ordinarios
+51100112,Ing. Liquidacion Nacional Cátodos,Ingresos ordinarios
+51100113,Ing. Liquidacion Exp. CU,Ingresos ordinarios
+51100114,Ing. Liquidacion Nac. CU,Ingresos ordinarios
+51100119,Ing. Liquidacion Exp. Dore,Ingresos ordinarios
+51100200,Maquila,Ingresos ordinarios
+51100700,I. x Venta Servicios EERR,Ingresos ordinarios
+51100701,Ing. x FEE EERR,Ingresos ordinarios
+51106000,Ingresos por Venta,Ingresos ordinarios
+51106001,Ingresos por Servicios,Ingresos ordinarios
+51106002,Otros Ing. Operacion,Ingresos ordinarios
+52100001,I. x Venta Materiales,Ingresos ordinarios
+52100002,I. x Venta Materiales EERR,Ingresos ordinarios
+52100003,Otros Ing. Fuera Explotacion EERR,Otros Ingresos (gastos)
+52100101,I. x Descuento,Otros Ingresos (gastos)
+52100103,I. x Arriendo Inmuebles-Terrenos,Otros Ingresos (gastos)
+52100104,I. x Arriendo Equipos,Otros Ingresos (gastos)
+52100105,I. x Fletes,Otros Ingresos (gastos)
+52100106,I. x Dividendos Percibidos,Otros Ingresos (gastos)
+52100107,Ing. por Arriendo EERR,Otros Ingresos (gastos)
+52200001,Ing. Financieros,(Gastos) / Ingresos Financieros
+52300001,I. x Venta de Activo,Otros Ingresos (gastos)
+52300002,I. x Capitalizacion,Otros Ingresos (gastos)
+52300003,I. x Venta Electro.,Ingresos ordinarios
+52300004,I. x Venta Chatarra,Otros Ingresos (gastos)
+52300099,Otros Ing. No Operacionales,Otros Ingresos (gastos)
+52300300,I. x Venta Despuntes,Otros Ingresos (gastos)
+61100001,Costo de Venta de Catodos Exportacion,Costo de ventas
+61100002,Costo de Venta de Cátodos Nacionales,Costo de ventas
+61100003,Costo de Venta de Concentrado CU Exportacion,Costo de ventas
+61100004,Costo de Venta de Concentrado CU Nacional,Costo de ventas
+61100005,Costo de Venta de AU Exportacion,Costo de ventas
+61100007,Costo de Venta de AG Exportacion,Costo de ventas
+61100009,Costo de Venta de Dore Exportacion,Costo de ventas
+61100011,Costo por ventas de minerales,Costo de ventas
+61100012,Costo de Venta Carbon Ac. EERR,Costo de ventas
+61100013,Costo por ventas de acido EERR,Costo de ventas
+61100014,Costo por ventas de minerales EERR,Costo de ventas
+61100700,Costo por ventas de servicios EERR,Costo de ventas
+61100701,Costo de Venta GAV EERR,Gastos de Administración y ventas
+61100702,Costo FEE EERR,Gastos de Administración y ventas
+61106000,Costo de Venta,Costo de ventas
+61106001,Costo por ventas de servicios,Costo de ventas
+61106002,Otros costos de operación,Costo de ventas
+61106003,Costos Ind. Produccion,Costo de ventas
+61106004,Costo Gastos de Administración y Ventas,Gastos de Administración y ventas
+61106005,Diferencias Inventarios,Costo de ventas
+61106700,Costo Serv. Outsoursing,Gastos de Administración y ventas
+61106701,Costo GAV Outsoursing,Gastos de Administración y ventas
+61200001,Depreciacion Construcciones y Edificios,Depreciación
+61200002,Depreciacion Maquinas y Equipo,Depreciación
+61200003,Depreciacion Muebles y Enseres,Depreciación
+61200004,Depreciacion Vehiculos,Depreciación
+61200005,Depreciacion Hardware y Eq. Computacionales,Depreciación
+61200006,Depreciacion Activos Fijos en Leasing,Depreciación
+61200007,Depreciacion otros Activos Fijos,Depreciación
+61200008,Depreciacion Terrenos,Depreciación
+61200010,Depreciación D°Arrendamientos,Depreciación
+61200011,Depreciación Plan de Cierre,Depreciación
+61200009,Amortización Stripping,Amortización
+62100001,Costo por ventas de materiales,Costo de ventas
+62100002,Costo por ventas de materiales EERR,Costo de ventas
+62100003,Otros Costos Fuera Explotacion EERR,Otros Ingresos (gastos)
+62100103,Costo de Arriendo Inmuebles-Terrenos,Otros Ingresos (gastos)
+62100104,Costo de Arriendo Equipos,Otros Ingresos (gastos)
+62200001,Costos de Exploracion,Otros Ingresos (gastos)
+62200002,Costos por ventas de electrolitos,Costo de ventas
+62200003,Otros Costos Activos Fijos,Otros Ingresos (gastos)
+62200099,Otros Costos No Operacionales,Otros Ingresos (gastos)
+63000001,Correccion Monetaria Terreno,Otras partidas financieras
+63000002,Correccion Monetaria Constru,Otras partidas financieras
+63000003,Correccion Monetaria Maquina,Otras partidas financieras
+63000004,Correccion Monetaria Muebles,Otras partidas financieras
+63000005,Correccion Monetaria Vehicul,Otras partidas financieras
+63000006,Correccion Monetaria Hardwar,Otras partidas financieras
+63000007,Correccion Monetaria Activos Leasing,Otras partidas financieras
+63000008,Correccion Monetaria Bienes,Otras partidas financieras
+63000009,Correccion Monetaria Activos,Otras partidas financieras
+63000010,Correccion Monetaria Obligaciones,Otras partidas financieras
+63000011,Correccion Monetaria Otros,Otras partidas financieras
+64010001,Compras Mineral y Concentrado,Costo de ventas
+64010002,Diferencias en Compras,Costo de ventas
+64010003,Soluciones PLS,Costo de ventas
+64020001,Explosivos,Costo de ventas
+64020002,Perfor. y brocas,Costo de ventas
+64020003,Acero de Perforacion,Costo de ventas
+64020004,Adherentes,Costo de ventas
+64020005,Bolas de molino,Costo de ventas
+64020006,Azufre,Costo de ventas
+64020007,Otros Reactivos,Costo de ventas
+64020008,Acido Sulfurico,Costo de ventas
+64020009,Revest.y corazas,Costo de ventas
+64020010,Mat.de mantencion,Costo de ventas
+64020011,Cinta Transportadora,Costo de ventas
+64020012,Petroleo,Costo de ventas
+64020013,Bencina,Costo de ventas
+64020014,Lubricantes,Costo de ventas
+64020015,Herramientas e Instrumental,Costo de ventas
+64020016,Art. Laboratorio,Costo de ventas
+64020017,Ropa y Elem. de seguridad,Costo de ventas
+64020018,Neumaticos y gomas,Costo de ventas
+64020019,Oxigeno,Costo de ventas
+64020020,Art.electricos,Costo de ventas
+64020021,Mat.de construccion,Costo de ventas
+64020022,Empaquetadura,Costo de ventas
+64020023,Rodam. y Retenes,Costo de ventas
+64020024,Acero Bronce y Fierro,Costo de ventas
+64020025,Cañerias  - PVC - P. Acero,Costo de ventas
+64020026,Otros materiales,Costo de ventas
+64020027,Aceros de Fortificacion,Costo de ventas
+64020028,Cianuro,Costo de ventas
+64020029,Hidroxido de Sodio,Costo de ventas
+64020030,Solvente,Costo de ventas
+64020031,Extractante,Costo de ventas
+64020032,Sulfato de Cobalto,Costo de ventas
+64020033,Aceite,Costo de ventas
+64020034,Soldadura,Costo de ventas
+64020035,Filtros,Costo de ventas
+64020036,Mallas Harneros,Costo de ventas
+64020037,Agua Industrial,Costo de ventas
+64020038,Equipos Menores,Costo de ventas
+64020040,Goma Guar,Costo de ventas
+64020042,Cloruro de calcio,Costo de ventas
+64020044,Cemento,Costo de ventas
+64026000,Insecticidas,Costo de ventas
+64026001,Herbicidas,Costo de ventas
+64026002,Insumo podar,Costo de ventas
+64026003,Abonos,Costo de ventas
+64026004,Fertilizantes,Costo de ventas
+64026005,Otros Insumos Agricolas,Costo de ventas
+64026006,Alambres,Costo de ventas
+64026007,Rep. Maq. y equipos,Costo de ventas
+64026008,Agua (Serv. Bas),Costo de ventas
+64026009,Gas,Costo de ventas
+64026010,Luz,Costo de ventas
+64026011,Bienes de Capital,Costo de ventas
+64026999,Liquidacion Ordenes,Costo de ventas
+64030001,Energia Electrica,Costo de ventas
+64030002,Seguro y Fletes Exp.,Costo de ventas
+64030003,Fletes Operacional,Costo de ventas
+64030004,Movimiento Esteril Lastre,Costo de ventas
+64030005,Arr. Maquinaria y Equipos,Costo de ventas
+64030006,Refinamiento,Costo de ventas
+64030007,Arr. Vehiculos,Costo de ventas
+64030008,Maquila,Costo de ventas
+64030009,Regalias,Costo de ventas
+64030010,Sondajes,Costo de ventas
+64030011,Construccion,Costo de ventas
+64030012,Sondajes Externos,Costo de ventas
+64030013,Servicio Agua Industrial,Costo de ventas
+64040001,Sueldo Base,Costo de ventas
+64040002,Horas Extra 50%,Costo de ventas
+64040003,Otros Bonos,Costo de ventas
+64040004,Asignacion Movilizacion,Costo de ventas
+64040005,Aporte Patronal,Costo de ventas
+64040006,Indemnizacion,Costo de ventas
+64040007,Finiquito,Costo de ventas
+64040008,Gratificaciones,Costo de ventas
+64040009,S.I.S.,Costo de ventas
+64040010,Acuerdo Laboral,Costo de ventas
+64040011,AFC - Seguro Cesantia,Costo de ventas
+64040012,Seguro Trabajos,Costo de ventas
+64040013,Asignacion Colacion,Costo de ventas
+64040014,Horas Extra 100%,Costo de ventas
+64040015,Bono Desempeño,Costo de ventas
+64040016,Bono Productividad,Costo de ventas
+64040017,Bono por Zona,Costo de ventas
+64040018,Bono Continuidad Laboral,Costo de ventas
+64040019,Bono Metro Perforado,Costo de ventas
+64040020,Bono Metro Barrenado,Costo de ventas
+64040021,Bono Vacaciones,Costo de ventas
+64040022,Bono Escolar,Costo de ventas
+64040023,Bono Caja Navidad,Costo de ventas
+64040024,Bono Semana Corrida,Costo de ventas
+64040025,Compensacion Vacaciones,Costo de ventas
+64040026,Subsidio 3 1eros dias,Costo de ventas
+64040027,Sala Cuna,Costo de ventas
+64040028,Otras Rentas No Imponibles,Costo de ventas
+64040029,Bono Termino Conflicto(BTN),Costo de ventas
+64040030,Bono Acuerdo Sindical,Costo de ventas
+64040031,Bono Turno C,Costo de ventas
+64040032,Bono Cosecha,Costo de ventas
+64040033,Aguinaldo,Costo de ventas
+64040034,Bono Anual,Costo de ventas
+64040035,Bono Planta,Costo de ventas
+64040036,Bono Mina,Costo de ventas
+64040037,Bono Areas de Apoyo,Costo de ventas
+64040038,Bono Incentivo Anual,Costo de ventas
+64040039,Aporte Sindical,Costo de ventas
+64040040,Bono Especial por Resultado,Costo de ventas
+64040041,Vacaciones,Costo de ventas
+64040042,ALOJAMIENTO,Costo de ventas
+64040044,Otros Gastos Remuneracionales,Costo de ventas
+64050001,Honorarios,Costo de ventas
+64050002,Alimentacion,Costo de ventas
+64050003,Serv. Mant. Infraestructura,Costo de ventas
+64050004,Devolucion pasajes,Costo de ventas
+64050005,Serv. Laboratorio y Ensayes Quimicos,Costo de ventas
+64050006,Serv. Geologicos,Costo de ventas
+64050007,Arr. de Propiedad,Costo de ventas
+64050008,Gts. Comunes Stgo,Costo de ventas
+64050009,Serv. Policlinico,Costo de ventas
+64050010,Asesorias Legales,Costo de ventas
+64050011,Asesorias Tributarias,Costo de ventas
+64050012,Auditorias,Costo de ventas
+64050013,Asesorias Medio Ambiental,Costo de ventas
+64050014,Otras Asesorias y Consultoria,Costo de ventas
+64050015,Serv. Mant. Mec.,Costo de ventas
+64050016,Serv. Mant. Elec.,Costo de ventas
+64050017,Serv. Mant. Incendio y Extintores,Costo de ventas
+64050018,Serv. Vulcanizacion,Costo de ventas
+64050019,Servicios TICA,Costo de ventas
+64050020,Serv. Aseo Industrial,Costo de ventas
+64050021,Serv. Seguridad Industrial,Costo de ventas
+64050022,Gastos de Exportación,Costo de ventas
+64050023,Servicio Mantención Equipo e instrumentos,Costo de ventas
+64050024,Ingeniería Básica,Costo de ventas
+64050025,Ingeniería de Detalle,Costo de ventas
+64050026,Instalaciones e infraestructura,Costo de ventas
+64050027,Software y  Sistemas,Costo de ventas
+64050028,Servicio de Transporte Personal,Costo de ventas
+64050029,Servicios Geoquímica,Costo de ventas
+64050030,Servicios de Geofísica,Costo de ventas
+64050031,Servicio Reparación General,Costo de ventas
+64050032,Propiedad minera,Costo de ventas
+64050033,Topografía y fotogrametría,Costo de ventas
+64050034,Dieta a directores,Costo de ventas
+64060001,Gastos legales,Costo de ventas
+64060002,Gastos Ambientales,Costo de ventas
+64060003,Gastos Oficina,Costo de ventas
+64060004,Infraestructura TICA,Costo de ventas
+64060005,Eventos Compañía,Costo de ventas
+64060006,Patente Comercial,Gastos de Administración y ventas
+64060007,Capacitacion,Costo de ventas
+64060008,Seleccion y Reclutamiento,Costo de ventas
+64060009,Otros G. Administrativos,Costo de ventas
+64060010,Patente Minera,Gastos de Administración y ventas
+64060011,Seguro Riesgo Industrial,Costo de ventas
+64060012,Servidumbres,Costo de ventas
+64060013,Desarrollo RRHH,Costo de ventas
+64060014,Investigación & desarrollo exploraciones,Costo de ventas
+64060015,Gestión social y relaciones comunitarias,Costo de ventas
+65000002,Donaciones,Otros Ingresos (gastos)
+65000004,Gastos de Viaje,Costo de ventas
+65000005,Gastos Rechazados,Otros Ingresos (gastos)
+65000006,Gto. Financiero Niff 16 Arriendo,Otros Ingresos (gastos)
+65000007,Contribuciones,Gastos de Administración y ventas
+65000008,Gastos financieros,(Gastos) / Ingresos Financieros
+65000009,Interes y Comisiones Pagados,(Gastos) / Ingresos Financieros
+65000010,Reajustes Pagados,(Gastos) / Ingresos Financieros
+65000011,Amortizacion Software,Amortización
+65000014,Material informatico,Costo de ventas
+65000015,Ropa de trabajo,Costo de ventas
+65000016,Gastos de Publicidad,Costo de ventas
+65000017,Interes Cierre Mina (Restauracion),(Gastos) / Ingresos Financieros
+65000018,Interes Cierre Mina (Desarme),(Gastos) / Ingresos Financieros
+65000019,Interes IAS Actuarial,Otros Ingresos (gastos)
+65000020,Deudores Incobrables,Otros Ingresos (gastos)
+65000021,Gastos por Arriendo Leasing,Otros Ingresos (gastos)
+65000100,DC Disponible,Otras partidas financieras
+65000101,DC Cuentas por Cobrar,Otras partidas financieras
+65000102,DC Cuentas por Cobrar EERR,Otras partidas financieras
+65000103,DC Deudores varios,Otras partidas financieras
+65000104,DC Existencias,Otras partidas financieras
+65000105,DC Impuestos por Recuperar,Otras partidas financieras
+65000106,DC Impuestos a la Renta y Royalty,Otras partidas financieras
+65000107,DC Impuestos Diferidos,Otras partidas financieras
+65000108,DC Activo Fijo,Otras partidas financieras
+65000109,DC Activo Fijo Leasing,Otras partidas financieras
+65000110,DC Otros Activos,Otras partidas financieras
+65000111,DC Cuentas por Pagar,Otras partidas financieras
+65000112,DC Cuentas por Pagar EERR,Otras partidas financieras
+65000113,DC Acreedores Varios,Otras partidas financieras
+65000114,DC Obligaciones con Bancos,Otras partidas financieras
+65000115,DC Otros Pasivos,Otras partidas financieras
+65000116,DC Patrimonio,Otras partidas financieras
+65000117,Dif. En Compensacion,Otras partidas financieras
+65000118,Impairment (Revalorizacion - Deterioro),Otros Ingresos (gastos)
+66000001,Impuesto a la Renta,Gasto por impuesto a las ganancias
+66000002,Impuesto al Royalty,Gasto por impuesto a las ganancias
+66000003,Impto. Diferido Renta,Gasto por impuesto a las ganancias
+66000004,Impto. Diferido Royalty,Gasto por impuesto a las ganancias
+66000005,Impuesto unico Gastos Rechazados,Gasto por impuesto a las ganancias
+66000006,Aj. Impto Renta anos anterior,Gasto por impuesto a las ganancias
+66000007,Aj. Impto Royalty anos anterior,Gasto por impuesto a las ganancias
+66000008,Aj. Impto Royalty anos anterior,Gasto por impuesto a las ganancias
+66000009,Otros Ajustes por Impuestos,Gasto por impuesto a las ganancias
+99000001,Carga inicial activo fijo,Carga saldos iniciales
+99000002,Carga incial balance,Carga saldos iniciales
+99000003,Carga incial bancos,Carga saldos iniciales
+99000004,Carga incial resultado,Carga saldos iniciales
+99000005,Carga inicial deudores,Carga saldos iniciales
+99000006,Carga inicial acreedores,Carga saldos iniciales
+99000007,carga inicial existencias,Carga saldos iniciales
+99000008,Ajustes Modulo PM,Grupo sub repartos
+11140003,PPM por crédito fiscal art. 28,Activos por impuestos corrientes
+11150103,Impuestos Diferidos Renta CP,Activos por impuestos corrientes
+11150104,Impuestos Diferidos Royalty CP,Activos por impuestos corrientes
+13080103,Imptos Diferidos Renta LP,Activos por impuestos diferidos
+13080104,Imptos Diferidos Royalty LP,Activos por impuestos diferidos
+13089999,Dif. Cambio Imptos Diferidos,Activos por impuestos diferidos
+13099999,Dif. Cambio Inventarios LP,Inventarios no corrientes
+21085014,Retención del 3% por reintegro préstamo tasa 0%,Pasivos por impuestos corrientes
+22050005,Prov. Cuentas por Pagar Empleados,Provisiones corrientes por beneficios a los empleados
+22059997,Dif. Cambio prov no corrientes empleados,Provisiones no corrientes por beneficios a los empleados
+22059998,Dif. Cambio prov corrientes empleados,Provisiones corrientes por beneficios a los empleados
+22059999,Dif. Cambio prov corrientes,Provisiones corrientes
+22060003,Impuestos diferidos LP,Pasivo por impuestos diferidos
+23010005,Otras Reservas Diferidos,Reservas por variación tipo de cambio
+23052001,Reserva adopcion NIIF,Reserva primera aplicación NIIF
+51100015,I. x Venta Carbon Activado Dore,Ingresos ordinarios
+52300005,Ingreso por regalías mineras,Otros Ingresos (gastos)
+64020041,Supresor de neblina,Costo de ventas
+64020043,Cloruro de sodio,Costo de ventas
+64020045,Peróxido,Costo de ventas
+64026012,Bombas,Costo de ventas
+64026013,Materiales Tica,Costo de ventas
+64026014,Motores,Costo de ventas
+64026015,Válvulas,Costo de ventas
+64026995,Liquidación Ordenes Subreparto,Costo de ventas
+64026996,Liquidación Ordenes Proyectos,Costo de ventas
+64026997,Liquidación Orden Costo de venta,Costo de ventas
+64026998,Liquidacion Orden Mineral,Costo de ventas
+64040043,Bono Día del Minero,Costo de ventas
+64050035,Otros Servicios Externos,Costo de ventas
+65000022,Otros Egresos no Operacionales,Otros Ingresos (gastos)
+65000023,Otros estudios No Operacionales,Otros Ingresos (gastos)
+CATODOSCU,SUBREPARTO CATODOS COBRE CU,Grupo sub repartos
+CTOGADMVTA,COSTO GASTO ADMINISTRACIÓN Y VENTA,Grupo sub repartos
+CTOVTAELEC,COSTO DE VENTA ELECTROLITO,Grupo sub repartos
+CVTAGAVINT,COSTO DE VENTA GAV EERR,Grupo sub repartos
+CVTASERINT,COSTO DE VENTA SERVICIO EERR,Grupo sub repartos
+GAVADMVTA,GASTO ADMINISTRACIÓN Y VENTA,Grupo sub repartos
+MINERALSTO,SUBREPARTO MINERAL EN STOCK GENERAL,Grupo sub repartos
+MINSTOCKCA,SUBREPARTO MINERAL EN STOCK CANCHA,Grupo sub repartos
+MINSTOCKMI,SUBREPARTO MINERAL EN STOCK MINA,Grupo sub repartos
+MIN_DORE,SUBREPARTO MINERAL DORÉ,Grupo sub repartos
+MOD_PM,MANO DE OBRA PM MANTENIMIENTO ELECTRO,Grupo sub repartos
+OCTOSOPERA,OTROS COSTOS OPERACIONALES,Grupo sub repartos
+OTCOSOPERA,OTROS COSTOS OPERACIONALES,Grupo sub repartos
+PM_MOD,MANO DE OBRA PM MANTENIMIENTO,Grupo sub repartos
+S21LIQCOR,Liq Correctivo,Grupo sub repartos
+S21LIQPRE,Liq Preventivo,Grupo sub repartos
