@@ -1302,3 +1302,387 @@ RESULTADO DEL EJERCICIO,RESULTADO DEL EJERCICIO,Resultado acumulado
 4.1.01.007,Transferencias de Energía,Ingresos de actividades ordinarias
 4.1.03.001,Intereses Fondos Mutuos,Otros Ingresos
 4.1.03.007,Reajustes,Resultados por unidades de reajuste
+10000000,ACTIVO,Efectivo y equivalentes al efectivo
+10101001,CAJA PESOS,Efectivo y equivalentes al efectivo
+10101002,CAJA DOLARES USD,Efectivo y equivalentes al efectivo
+10101003,INGRESOS EN TRANSITO,Efectivo y equivalentes al efectivo
+10101004,INGRESOS EN TRANSITO DOLARES,Efectivo y equivalentes al efectivo
+10101006,VALORES EN CAJA PESOS,Deudores comerciales y otras cuentas por cobrar
+10101007,DEPOSITOS A PLAZOS E INVERSIONES PESOS,Efectivo y equivalentes al efectivo
+10101008,DEPOSITOS A PLAZOS E INVERSIONES EN DOLARES,Efectivo y equivalentes al efectivo
+10101009,INVERSIONES LARRAIN VIAL,Efectivo y equivalentes al efectivo
+10101010,INVERSIONES LARRAIN VIAL DOLARES,Efectivo y equivalentes al efectivo
+10102001,BANCO EDWARDS (144420),Efectivo y equivalentes al efectivo
+10102002,BANCO EDWARDS (150130 - SUELDOS),Efectivo y equivalentes al efectivo
+10102003,BANCO SECURITY,Efectivo y equivalentes al efectivo
+10102007,BANCO DE CHILE CTA CTE # 00-02460-00,Efectivo y equivalentes al efectivo
+10102009,BANCO ABN AMRO - PESOS (117816-4),Efectivo y equivalentes al efectivo
+10102013,BANCO CHILE - PESOS - SOCIOS (001-22538-03),Efectivo y equivalentes al efectivo
+10102015,BANCOESTADO CTA CTE N° 247448,Efectivo y equivalentes al efectivo
+10102020,BANCO DE CHILE - 94030-05 /INVERSIONES Y RENTAS SPA,Efectivo y equivalentes al efectivo
+10102023,BANCO BCI 10644156,Efectivo y equivalentes al efectivo
+10102025,BANCO BCI CUENTA 2 ( 10648534 SUELDOS),Efectivo y equivalentes al efectivo
+10102026,BANCO BCI MIAMI,Efectivo y equivalentes al efectivo
+10102027,BANCO BCI USD SANTIAGO ( 11207990),Efectivo y equivalentes al efectivo
+10102028,BANCO DE CHILE DOLARES cta 05-001-02580-10,Efectivo y equivalentes al efectivo
+10102029,BANCO DE CHILE(CITI) DOLARES CUENTA 0100110059,Efectivo y equivalentes al efectivo
+10102030,SCOTIABANK ( Outplacement) 973614401,Efectivo y equivalentes al efectivo
+10102031,Banco BBVA,Efectivo y equivalentes al efectivo
+10102032,BBVA USD 050401050100008476,Efectivo y equivalentes al efectivo
+10103001,BANCO DE CREDITO E INVERSIONES (BPO),Efectivo y equivalentes al efectivo
+10103003,BANCO DE CHILE 2 BPO CTA 80004239-05,Efectivo y equivalentes al efectivo
+10103005,BANCO CHILE $ 80004239-05 (OUT),Efectivo y equivalentes al efectivo
+10103007,BANCO BCI CTA CTE 10650512 SERV.PROFES,Efectivo y equivalentes al efectivo
+10104001,HONORARIOS POR COBRAR FACTURAS AFECTAS,Deudores comerciales y otras cuentas por cobrar
+10104002,GASTOS POR COBRAR A CLIENTES,Deudores comerciales y otras cuentas por cobrar
+10104003,GASTOS POR FACTURAR A CLIENTES,Deudores comerciales y otras cuentas por cobrar
+10104004,DOCUMENTOS POR COBRAR,Deudores comerciales y otras cuentas por cobrar
+10104006,HONORARIOS POR COBRAR US$ FACTURAS EXENTAS,Deudores comerciales y otras cuentas por cobrar
+10104007,DEUDORES DUDOSA COBRANZA,Deudores comerciales y otras cuentas por cobrar
+10104008,HONOR. POR COBRAR INTEROFFICE US$-FACTURAS EXENTAS,Deudores comerciales y otras cuentas por cobrar
+10104021,HONORARIOS POR COBRAR FACTURAS EXENTAS,Deudores comerciales y otras cuentas por cobrar
+10104022,GASTOS POR COBRAR (1ERA CATEG),Deudores comerciales y otras cuentas por cobrar
+10104024,HONOR. POR COBRAR INTEROFFICE US$- GASTOS,Deudores comerciales y otras cuentas por cobrar
+10105001,AVANCES A RENDIR,Deudores comerciales y otras cuentas por cobrar
+10105002,CUENTAS CORRIENTES EMPLEADOS,Deudores comerciales y otras cuentas por cobrar
+10105003,CUENTA PRESTAMOS EMPLEADOS,Deudores comerciales y otras cuentas por cobrar
+10105005,PRESTAMOS AL PERSONAL POR CURSOS,Deudores comerciales y otras cuentas por cobrar
+10105008,ANTICIPOS INDEMNIZACIONES,Anticipos indemnizaciones
+10105010,CUENTAS POR COBRAR SOCIOS,Deudores comerciales y otras cuentas por cobrar
+10105011,AVANCES A RENDIR EMPRESAS OTIC,Deudores comerciales y otras cuentas por cobrar
+10105012,VALORES POR RECUPERAR,Deudores comerciales y otras cuentas por cobrar
+10105999,EMPLEADOS CARGA,Deudores comerciales y otras cuentas por cobrar
+10106002,CUENTAS CORRIENTES SOCIOS RETIRADOS,Resultados acumulados
+10106003,CUENTA CORRIENTE ESPECIAL (BANCO),Resultados acumulados
+10106004,CTACTE ESPECIAL SOCIOS,Resultados acumulados
+10106007,CLUBES SOCIOS,Resultados acumulados
+10106010,RETIROS DRAWING SOCIOS ACTIVOS,Resultados acumulados
+10106011,RETIROS DRAWING SOCIOS PASIVOS,Resultados acumulados
+10106013,RETIROS INVERSION SOCIOS EMPRESARIO INDIVIDUAL,Resultados acumulados
+10106100,IMPTO DRAWING (RETIRO) SOCIOS,Resultados acumulados
+10106101,IMPTO INVERSION SOCIOS,Resultados acumulados
+10106102,IMPUESTO INVERSION SOCIOS EMPRESARIO INDIVIDUAL,Resultados acumulados
+10106201,RETIROS DE SOCIOS AÑO 2006,Resultados acumulados
+10106202,RETIROS SOCIOS GROSS UP,Resultados acumulados
+10106203,RETIROS DE SOCIOS AÑO 2007,Resultados acumulados
+10106204,RETIRO SOCIOS GROSSUP AÑO 2007,Resultados acumulados
+10106205,RETIROS SOCIOS AÑO 2008,Resultados acumulados
+10106206,RETIROS SOCIOS AÑO 2008 - GROSSUP,Resultados acumulados
+10106207,RETIRO SOCIOS AÑO 2009,Resultados acumulados
+10106208,RETIRO SOCIOS AÑO 2009 - GROSSUP,Resultados acumulados
+10106209,RETIRO SOCIOS AÑO 2010,Resultados acumulados
+10106210,RETIRO SOCIOS AÑO 2010 - GROSSUP,Resultados acumulados
+10106211,RETIROS SOCIOS AÑO 2011,Resultados acumulados
+10106212,RETIROS SOCIOS AÑO 2011 - GROSSUP,Resultados acumulados
+10106213,RETIROS SOCIOS AÑO 2012,Resultados acumulados
+10106214,RETIROS SOCIOS AÑO 2012 - GROSSUP,Resultados acumulados
+10106215,RETIROS SOCIOS AÑO 2013,Resultados acumulados
+10106216,RETIROS SOCIOS AÑO 2013 - GROSSUP,Resultados acumulados
+10106217,RETIROS SOCIOS AÑO 2014,Resultados acumulados
+10106218,RETIROS SOCIOS AÑO 2014 - GROSSUP,Resultados acumulados
+10106219,RETIROS SOCIOS AÑO 2015,Resultados acumulados
+10106220,RETIROS SOCIOS AÑO 2015 - GROSSUP,Resultados acumulados
+10106221,RETIROS SOCIOS AÑO 2016,Resultados acumulados
+10106222,RETIROS SOCIOS AÑO 2016 - GROSSUP,Resultados acumulados
+10106223,RETIROS SOCIOS AÑO 2017,Resultados acumulados
+10106224,RETIROS SOCIOS AÑO 2017 - GROSSUP,Resultados acumulados
+10106225,RETIROS SOCIOS AÑO 2018,Resultados acumulados
+10106226,RETIROS SOCIOS AÑO 2018 - GROSSUP,Resultados acumulados
+10106227,RETIROS SOCIOS AÑO 2019,Resultados acumulados
+10106228,RETIROS SOCIOS AÑO 2019 - GROSSUP,Resultados acumulados
+10107002,GASTOS SOFTWARE / DIFERIDOS,Intangibles
+10107004,GASTOS JUICIOS / DIFERIDOS,Intangibles
+10107005,CUENTAS POR COBRAR TPM - SEGUROS,Deudores comerciales y otras cuentas por cobrar
+10107009,OTRAS CUENTAS POR COBRAR,Deudores comerciales y otras cuentas por cobrar
+10107010,DEUDORES VARIOS,Deudores comerciales y otras cuentas por cobrar
+10107012,CTA CTE POR COBRAR A OUTPLACEMENT,Deudores comerciales y otras cuentas por cobrar
+10201001,MUEBLES,Propiedades, plantas y equipos
+10201002,INSTALACIONES,Propiedades, plantas y equipos
+10201003,MAQUINARIAS Y EQUIPOS,Propiedades, plantas y equipos
+10202000,EQUIPOS COMPUTACIONALES Y SOFTWARES,Propiedades, plantas y equipos
+10202001,COMPUTADORES Y OTROS EQUIPOS,Propiedades, plantas y equipos
+10202002,IMPRESORAS,Propiedades, plantas y equipos
+10202003,SOFTWARE Y OTROS (DEPRECIACION 3 AÑOS),Propiedades, plantas y equipos
+10202004,SERVIDORES Y OTROS (DEPREC 5 AÑOS),Propiedades, plantas y equipos
+10203001,VEHICULOS,Propiedades, plantas y equipos
+10204001,REMODELACIONES,Propiedades, plantas y equipos
+10204003,ESTACIONAMIENTOS,Propiedades, plantas y equipos
+10205001,ALFOMBRAS,Propiedades, plantas y equipos
+10206001,DERECHOS POR ARRIENDOS (NIIF 16),Derechos de uso
+10209001,DEPRECIACION MUEBLES (10 AÑOS),Propiedades, plantas y equipos
+10209002,DEPRECIACION INSTALACIONES (10 AÑOS),Propiedades, plantas y equipos
+10209003,DEPRECIACION MAQUINARIAS Y EQUIPOS (10 AÑOS),Propiedades, plantas y equipos
+10209004,DEPRECIACION EQUIPOS COMPUTACIONALES (4 AÑOS),Propiedades, plantas y equipos
+10209005,DEPRECIACION IMPRESORAS Y OTROS EQUIPOS (4 AÑOS),Propiedades, plantas y equipos
+10209006,DEPRECIACION SOFTWARE (3 AÑOS),Propiedades, plantas y equipos
+10209007,DEPRECIACION SERVIDORES (5 AÑOS),Propiedades, plantas y equipos
+10209008,DEPRECIACION VEHICULOS (10 AÑOS),Propiedades, plantas y equipos
+10209009,DEPRECIACION ESTACIONAMIENTOS,Propiedades, plantas y equipos
+10301002,IVA DEBITO FISCAL,Impuestos por recuperar
+10301003,PPM PAGOS PROVISIONALES MENSUALES,Impuestos por recuperar
+10301004,PPM PRIMERA CATEGORIA,Impuestos por recuperar
+10301005,RETENCIONES EXTERIOR,Impuestos por recuperar
+10301006,DONACIONES 50% APLICA IMPUESTOS,Impuestos por recuperar
+10301009,IMPUESTOS DIFERIDOS -,Pasivos por impuestos diferidos
+10302001,VALORES EN GARANTIA,Valores en garantía
+10302005,GTOS DIF. - PROFESSIONAL INDEMNITY INSURANCE,Otros activos no financieros corrientes
+10302006,GTOS DIF. - LICENCIAS SOFTWARE,Otros activos no financieros no corrientes
+10401001,GARANTIA DE ARRIENDO,Otros activos no financieros no corrientes
+10401002,INVERSIONES,Derechos de uso
+15800999,ALL - CUENTA PUENTE,Propiedades, plantas y equipos
+20101002,TARJETAS DE CREDITOS,Otros pasivos financieros corrientes
+20101003,PROVEEDORES VARIOS,Cuentas por pagar comerciales y otras cuentas por pagar
+20101004,OTRAS CUENTAS POR PAGAR EN PESOS,Cuentas por pagar comerciales y otras cuentas por pagar
+20101006,GASTOS COMUNES,Cuentas por pagar comerciales y otras cuentas por pagar
+20101007,CUENTAS POR PAGAR PERSONAL PWC,Cuentas por pagar comerciales y otras cuentas por pagar
+20101009,SEGUROS POR PAGAR,Cuentas por pagar comerciales y otras cuentas por pagar
+20101017,INTERESES BANCARIOS POR PAGAR,Cuentas por pagar comerciales y otras cuentas por pagar
+20101018,OTRAS CUENTAS POR PAGAR PESOS,Cuentas por pagar comerciales y otras cuentas por pagar
+20101019,OTRAS CUENTAS POR PAGAR USD,Cuentas por pagar comerciales y otras cuentas por pagar
+20101020,SOCIEDAD ACTIVA,Cuentas por pagar comerciales y otras cuentas por pagar
+20101022,CUENTA CORRIENTE CLUB DEPORTIVO,Cuentas por pagar comerciales y otras cuentas por pagar
+20101023,CUENTAS POR PAGAR PWC EXTERIOR,Cuentas por pagar comerciales y otras cuentas por pagar
+20101025,PROVISIONES CUENTAS POR PAGAR VARIAS,Cuentas por pagar comerciales y otras cuentas por pagar
+20101026,PROVISIONES CUENTAS POR PAGAR VARIAS TECHNOLOGY,Cuentas por pagar comerciales y otras cuentas por pagar
+20101027,PROVISIONES CUENTAS POR PAGAR APA - CAF,Cuentas por pagar comerciales y otras cuentas por pagar
+20101028,PROVISIONES CUENTAS POR PAGAR LAN,Cuentas por pagar comerciales y otras cuentas por pagar
+20101031,CUENTAS POR PAGAR SOCIOS,Cuentas por pagar a entidades relacionadas
+20101090,CUENTA PUENTE PROVEEDORES,Cuentas por pagar comerciales y otras cuentas por pagar
+20102005,OBLIGACIONES BANCO DE CHILE,Otros pasivos financieros
+20103001,SUELDOS POR PAGAR,Cuentas por pagar comerciales y otras cuentas por pagar
+20103002,HONORARIOS POR PAGAR,Cuentas por pagar comerciales y otras cuentas por pagar
+20103003,LEYES SOCIALES POR PAGAR,Cuentas por pagar comerciales y otras cuentas por pagar
+20103009,DESCTOS VARIOS PERSONAL POR PAGAR,Cuentas por pagar comerciales y otras cuentas por pagar
+20103011,DESCTO DEL PERSONAL SEGURO DE SALUD. POR PAGAR,Cuentas por pagar comerciales y otras cuentas por pagar
+20103012,CELULAR - DESCTO DEL PERSONAL - POR PAGAR,Cuentas por pagar comerciales y otras cuentas por pagar
+20103013,INGLES - DESCUENTOS AL PERSONAL,Cuentas por pagar comerciales y otras cuentas por pagar
+20103015,DESCTOS DIPLOMADOS - MBA,Cuentas por pagar comerciales y otras cuentas por pagar
+20103017,FONDO SOLIDARIO PARA EMPLEADOS,Cuentas por pagar comerciales y otras cuentas por pagar
+20104001,PROVISIONES GRATIFICACIONES LEGALES,Cuentas por pagar comerciales y otras cuentas por pagar
+20104002,PROVISIONES BONOS ESPECIALES,Cuentas por pagar comerciales y otras cuentas por pagar
+20104003,PROVISIONES INDEMNIZACIONES,Cuentas por pagar comerciales y otras cuentas por pagar
+20104004,PROVISIONES DE VACACIONES,Cuentas por pagar comerciales y otras cuentas por pagar
+20104008,PROVISION ANTICIPOS INDEMNIZACIONES,Anticipos indemnizaciones
+20104009,OBLIGACION POR ARRIENDOS (NIIF16),Obligaciones por arrendamientos
+20105001,PROVISION DE IMPUESTOS ANUALES,Pasivos por impuestos corrientes
+20105002,IMPUESTO ADICIONAL POR PAGAR,Cuentas por pagar comerciales y otras cuentas por pagar
+20105003,IVA CREDITO FISCAL POR PAGAR,Cuentas por pagar comerciales y otras cuentas por pagar
+20105004,IMPUESTO UNICO POR PAGAR,Cuentas por pagar comerciales y otras cuentas por pagar
+20105005,IMPTOS SOBRE HONORARIOS POR PAGAR,Cuentas por pagar comerciales y otras cuentas por pagar
+20105006,P.P.M. POR PAGAR,Cuentas por pagar comerciales y otras cuentas por pagar
+20106001,BANCO SECURITY BOLETAS EN GARANTIA,Cuentas por pagar comerciales y otras cuentas por pagar
+20106002,BANCO CHILE BOLETAS EN GARANTIA,Valores en garantía
+20201002,PROVISION DEUDORES MOROSOS,Deudores comerciales y otras cuentas por cobrar
+20201003,PROVISION OTROS DEUDORES VARIOS,Deudores comerciales y otras cuentas por cobrar
+20201004,CONTABILIZACION WIP,Deudores comerciales y otras cuentas por cobrar
+20201010,OTROS PASIVOS- CTA BANCO CHILE CLIENTE BPO,Deudores comerciales y otras cuentas por cobrar
+20201021,ANTICIPOS PRIMERA CATEGORIA,Deudores comerciales y otras cuentas por cobrar
+20203004,PROVISION PWC GLOBAL CHARGES,Cuentas por pagar comerciales y otras cuentas por pagar
+20301004,DESARROLLO PROFESIONAL,Cuentas por cobrar a entidades relacionadas
+20301005,SARECO,Cuentas por pagar a entidades relacionadas no corrientes
+20301007,CAPACITACION Y DESARROLLO PROFESIONAL LIMITADA,Cuentas por cobrar a entidades relacionadas
+20301008,CUENTA CORRIENTE DHS,Cuentas por pagar a entidades relacionadas
+20301009,INVERSIONES Y ASESORIAS FINANCIERAS LTDA,Cuentas por pagar a entidades relacionadas no corrientes
+20301012,INVERSIONES Y RENTAS SPA,Cuentas por pagar a entidades relacionadas no corrientes
+20301013, CTA CTE NUEVA ALAMEDA 21 SA,Cuentas por pagar a entidades relacionadas
+20301014,CTA CTE ADM.INVERSIONES 21 REAL SA,Cuentas por pagar a entidades relacionadas
+20301015,PWC SERVICIOS DE ASESORIA LTDA,Cuentas por pagar a entidades relacionadas
+20301016,PWC STRATEGY I,Cuentas por pagar a entidades relacionadas
+20301017,PWC STRATEGY II,Cuentas por pagar a entidades relacionadas
+20301018,CTA CTE PWC POR PAGAR PWC (OUTPLACEMENT),Deudores comerciales y otras cuentas por cobrar
+20301019,PRÉSTAMO LIFEGUARD FINANCE B.V.,Otros pasivos financieros
+20301020,PTMOS A LARGO PLAZO - MUTUO IAF,Cuentas por pagar a entidades relacionadas no corrientes
+20302001,PRESTAMOS OTRAS EMPRESAS,Cuentas por pagar a entidades relacionadas
+20302002,CESION DE CREDITOS,Cuentas por pagar a entidades relacionadas no corrientes
+20302004,PRESTAMOS REMODELACIONES (UF),Cuentas por pagar a entidades relacionadas no corrientes
+20302005,REAJUSTES PRESTAMOS REMODELACIONES (UF),Cuentas por pagar a entidades relacionadas no corrientes
+20302006,PRESTAMOS CAPITAL DE TRABAJO UF,Cuentas por pagar a entidades relacionadas
+20302008,NEGOCIO CONJUNTO PWC - OUTPLACEMENT,Cuentas por pagar a entidades relacionadas
+20302009,ACREEDORES POR CONTRATOS DE RENUNCIA, TRANSACCIÓN Y FINIQUITO,Otros pasivos financieros
+20401011,CUOTAS DE CAPITAL POR PAGAR,Cuentas por pagar a entidades relacionadas no corrientes
+28000000,Acuerdos entre personas jurídicas (mismo país),Cuentas por pagar comerciales y otras cuentas por pagar
+30101001,CAPITAL,Otras reservas
+30101003,PERDIDAS Y GANANCIAS ACUMULADAS,Resultados acumulados
+30101008,PERDIDAS Y GANANCIAS ACUMULADAS OUTPLACEMENT,Resultados acumulados
+30101010,CAPITAL - APORTE POR ENTERAR,Otras reservas
+30101011,CAPITAL SOCIAL SPA,Capital
+40101001,HONORARIOS,Ingresos netos
+40101002,BOLETAS EMITIDAS (1ERA CATEGORIA),Ingresos netos
+40101004,CL - Trabajos en curso,Ingresos netos
+40101006,TRASPASO DE INGRESOS,Ingresos netos
+40101401,Costo de Servicio - Billable,Ingresos netos
+40101402,Costo de Servicio No Billable,Ingresos netos
+40101501,Costo de Horas Cargadas - Billable,Ingresos netos
+40101502,Costo de Horas Cargadas - No Billable,Ingresos netos
+40102001,OTROS INGRESOS,Otros gastos
+40102002,INTERESES PERCIBIDOS,Internet del país
+40103001,DIVIDENDOS RECIBIDOS,Resultados acumulados
+50101001,SUELDOS Y HONORARIOS,Servicio al cliente
+50101002,GRATIFICACION LEGAL,Servicio al cliente
+50101003,LEYES SOCIALES,Servicio al cliente
+50101004,COLACION Y MOVILIZACION,Servicio al cliente
+50101005,SEGURO DE CESANTIA APORTE EMPLEADOR,Servicio al cliente
+50101006,PARTICIPACION RELATORES,Servicio al cliente
+50101007,OTRAS REMUNERACIONES Y HONORARIOS,Servicio al cliente
+50101008,INDEMNIZACIONES VOLUNTARIAS,Servicio al cliente
+50101009,VACACIONES DEVENGADAS,Servicio al cliente
+50101010,BONOS STANDARS Y EXTRAS,Servicio al cliente
+50102001,CHEQUEOS MEDICOS SOCIOS,Otro personal
+50102002,CHEQUEOS MEDICOS PERSONAL,Otro personal
+50102003,SEGUROS DE SALUD,Otro personal
+50102005,CURSOS Y SEMINARIOS,Educación continua
+50102006,POST GRADOS,Educación continua
+50102007, SEGUROS DE SALUD BUPA,Otro personal
+50102008,SALAS CUNAS,Otro personal
+50102009,UNIFORMES,Otro personal
+50102010,ESTACIONAMIENTOS DEL PERSONAL,Otro personal
+50102011,OTROS BENEFICIOS AL PERSONAL,Otro personal
+50102012,OTROS BENEFICIOS CALIDAD DE VIDA,Otro personal
+50102013,SEGUROS DE VIDA ACC.PERSONALES,Otro personal
+50102015,COSTOS Y REMUNERACIONES PERSONAL DEL EXTERIOR,Otro personal
+50104001,CURSOS Y SEMINARIOS INTERNOS,Educación continua
+50104002,TRASLADO -PASAJES CURSOS INTERNOS,Educación continua
+50104003,MATERIALES, ARRIENDO DE SALAS Y OTROS CURSOS INTERNOS,Educación continua
+50104004,CURSOS DE INGLES EXTERNOS,Educación continua
+50104005,OTROS CURSOS EXTERNOS,Educación continua
+50104006,CAPACITACION CURSOS SENCE,Educación continua
+50104007,ESTADIA CURSOS INTERNOS,Educación continua
+50104008,CONSUMO CURSOS INTERNOS,Educación continua
+50104009,PASAJES Y HOTEL CURSOS EN EL EXTERIOR,Educación continua
+50104010,ATENCION VISITAS EXTRANJERAS - CURSOS,Educación continua
+50104011,GASTOS PWC EXPERIENCE,Educación continua
+50105001,SUELDOS Y HONORARIOS - PERSONAL NO TECNICO,Suministros de práctica
+50105002,GRATIFICACION LEGAL - PERSONAL NO TECNICO,Suministros de práctica
+50105003,LEYES SOCIALES - PERSONAL NO TECNICO,Suministros de práctica
+50105004,COLACION Y MOVILIZACION - PERSONAL NO TECNICO,Suministros de práctica
+50105005,SEGURO DE CESANTIA APORTE EMPLEADOR,Suministros de práctica
+50105007,OTRAS REMUNERACIONES DEL PERSONAL,Suministros de práctica
+50105008,INDEMNIZACIONES VOLUNTARIAS,Suministros de práctica
+50105009,VACACIONES DEVENGADAS - PERSONAL NO TECNICO,Suministros de práctica
+50105010,BONOS - PERSONAL NO TECNICO,Suministros de práctica
+50106001,EXAMENES MEDICOS - CONTRATACIONES,Reclutamiento
+50106002,PUBLICACIONES DE AVISOS - CONTRATACIONES,Reclutamiento
+50106003,TRASLADOS (PASAJES-ESTADIA),Reclutamiento
+50106004,CONTRATACION Y TRASLADOS (VARIOS),Reclutamiento
+50201001,ARRIENDO DE OFICINAS,Ocupación
+50201002,GASTOS COMUNES,Ocupación
+50201003,ARRIENDO DE ESTACIONAMIENTOS,Ocupación
+50201004,ASEO,Ocupación
+50201005,LUZ Y GAS,Ocupación
+50201006,MANTENCION OFICINAS,Ocupación
+50201007,SEGUROS - MUEBLES E INSTALACIONES,Ocupación
+50201008,SEGUROS - RESPONSABILIDAD CIVIL,Ocupación
+50201009,DEPRECIACION MUEBLES E INSTALACIONES,Ocupación
+50201010,MANTENCION MAQUINARIAS Y EQUIPOS,Ocupación
+50201011,ARRIENDO Y OTROS ANEXOS,Ocupación
+50201012,AMORTIZACION OBLIGACIONES/DERECHOS POR ARRIENDOS,Ocupación
+50202001,TELEFONOS,Teléfono, m
+50202002,CELULARES,Teléfono, m
+50202003,CORREO Y CORREOS PRIVADOS,Teléfono, m
+50202004,COURIER Y VALIJAS,Teléfono, m
+50202005,LICENCIAS COMUNICACIONES,Teléfono, m
+50202006,OTROS GASTOS COMUNICACION,Teléfono, m
+50202008,INTERNET Y SITIOS WEB,Teléfono, m
+50202010,FOTOCOPIAS,Teléfono, m
+50202011,REPRODUCCIONES E IMPRESIONES,Teléfono, m
+50203001,PASAJES - GASTOS DEL PERSONAL,Personal general
+50203002,HOTELES - GASTOS DEL PERSONAL,Personal general
+50203004,VIATICOS Y KM - GASTOS DEL PERSONAL,Personal general
+50203005,OTROS GASTOS DE VIAJE PERSONAL,Personal general
+50203009,ALMUERZO SOCIOS,Personal general
+50203010,ONCES COMIDAS - GASTOS DEL PERSONAL,Personal general
+50203011,EVENTOS: FIN DE AÑO - 18 DE SEPT - NAVIDAD,Personal general
+50203012,GASTOS TALLERES GRUPALES Y OTROS AL PERSONAL,Personal general
+50203013,GASTOS FIESTAS FIN DE RUSH -,Personal general
+50204001,PASAJES - GASTOS SOCIOS,Actividad empresarial
+50204002,HOTELES - GASTOS DE SOCIOS,Actividad empresarial
+50204004,HONORARIOS, ASESORIAS Y CONSULTORIAS EXTRANJERAS,Actividad empresarial
+50204005,OTROS GASTOS VIAJE SOCIOS,Actividad empresarial
+50204006,GASTOS REUNIONES LAN - SOACAT,Actividad empresarial
+50204007,GASTOS REUNIONES SOCIOS,Actividad empresarial
+50204008,GASTOS DE PROMOCION PRACTICA -APA,Actividad empresarial
+50204009,GASTOS PROPUESTAS A CLIENTES,Actividad empresarial
+50204010,ATENCION CLIENTES,Actividad empresarial
+50204011,GASTOS VARIOS QUALITY REVIEW,Actividad empresarial
+50204012,SUSCRIPCIONES ASOCIACIONES CUOTAS SOC.,Actividad empresarial
+50204013,ATENCION VISITAS EXTRANJERAS,Actividad empresarial
+50204014,HONORARIOS ASESORIAS Y/O CONSULTORIAS NACIONALES,Actividad empresarial
+50204015,DONACIONES (ACEPTADAS COMO GASTOS),Actividad empresarial
+50204016,DONACIONES (50% CREDITO IMPUESTO PRIMERA CATEGORIA),Actividad empresarial
+50205003,UTILES DE ESCRITORIO,Material de referencia
+50205004,PAPELERIA,Material de referencia
+50205005,SUMINISTROS MAQUINAS Y COMPUTADORES,Material de referencia
+50205006,ARRIENDO Y SERVICIOS COMPUTACIONALES,Material de referencia
+50205007,BIBLIOTECA,Material de referencia
+50205008,ACTIVOS FIJO MENORES,Material de referencia
+50205009,SUMINISTROS VARIOS OFICINAS,Material de referencia
+50205010,SUSCRIPCIONES DIARIOS, MANUALES Y REVISTAS,Material de referencia
+50205011,TRADUCCIONES INFORMES,Material de referencia
+50206001,SERVICIOS EXTERNOS -MANTENCION EQUIPOS Y SOFTWARE,Tecnología
+50206002,SERVICIOS EXTERNOS CONSULTORIA Y SERVICIOS,Tecnología
+50206003,SERVICIOS INTERNOS DE PWC VIA BSS - OTROS,Tecnología
+50206004,CARGOS DE LAN,Tecnología
+50206005,OTROS / ACCESORIOS,Tecnología
+50206006,ENLACES NACIONALES ( WANCOST),Tecnología
+50206007,SERVICIOS EXTERNOS - SOPORTE,Tecnología
+50206008,LICENCIAS SOFTWARE WLSA CANADA,Tecnología
+50206009,DEPRECIACION EQUIPOS COMPUTACIONALES,Tecnología
+50206010,SERVICIOS EXTERNOS - HOUSING,Tecnología
+50206020,SERViICIOS INTERNOS DE PWC VIA BSS -AURA,Tecnología
+50206021,RECUPERACION SERVICIOS PROVISTOS POR TI,Tecnología
+50206022,SERVICIOS EXTERNOS - PRINTING,Tecnología
+50206030,LICENCIAS DE SOFTWARE - OPEX,Tecnología
+50206040,SERVICIO INTERNOS DE PWCVIA BSS - BIT,Tecnología
+50206050,TELEFONOS DE ESCRITORIO - OPEX,Tecnología
+50206051,CARGO POR SERVICIOS MOVILES,Tecnología
+50206053,EQUIPAMIENTO DE COMUNICACIONES - OPEX,Tecnología
+50206054,CARGO POR USOS DE TELEFONIA,Tecnología
+50206055,ENLACES WAN INTRA-TERRITORIO + CARGOS POR USO,Tecnología
+50206056,ENLACES WAN INTER-TERRITORIO + CARGOS POR USO,Tecnología
+50206057,SERVICIOS EXTERNOS -SERVICIOS CLOUD,Tecnología
+50206060,CL - Instalaciones,Tecnología
+50206070,SERVICIO EXTERNOS -CARGOS / RECUPERACIONES NIS,Tecnología
+50206080,OTROS / GASTOS TI,Tecnología
+50207001,PUBLICIDAD Y MARKETING,Desarrollo de práctica
+50207004,ESTUDIOS Y ASESORIAS COMUNICACIONALES,Desarrollo de práctica
+50207005,SITIOS WEB Y REDES SOCIALES,Desarrollo de práctica
+50207006,ACTIVIDADES DE MARKETING,Desarrollo de práctica
+50207007,AUSPICIOS Y MATERIAL RELACIONADO,Desarrollo de práctica
+50207008,REVISTAS (PRODUCCION, DISTRIBUCION Y ASESORIAS),Desarrollo de práctica
+50207009,CAMARAS MEMBRESIAS Y SUSCRIPCIONES,Desarrollo de práctica
+50208003,MANTENCION VEHICULO,Otros gastos
+50208007,SEGUROS DE LA PRACTICA,Otros gastos
+50208010,GASTOS REVISION PCAOB,Otros gastos
+50208012,PATENTES (OFICINAS Y VEHICULOS),Otros gastos
+50208014,GASTOS LEGALES,Otros gastos
+50208015,GASTOS DE PROMOCION,Otros gastos
+50208020,OTROS GASTOS,Otros gastos
+50208025,DEPRECIACION, C. MONETARIA Y CASTIGOS DE VEHICULOS,Otros gastos
+50208026,DEPRECIACIONBIENES DEL ACTIVO FIJO,Otros gastos
+50209001,CLUBES Y ASOCIACIONES - GASTO RECHAZADO,Actividad empresarial
+50209002,DONACIONES - GASTOS RECHAZADOS,Actividad empresarial
+50209003,GASTOS RECHAZADOS VARIOS SOCIOS,Otros gastos
+50209004,FONDO SOLIDARIO EVENTOS CATASTROFICOS PWC,Otros gastos
+50210001,AGREGADOS RLI,Otros gastos
+50301001, GASTOS BANCARIOS (BOLETAS/OP.CLTES.),Internet del país
+50301002,INTERESES Y GASTOS BANCARIOS (MANT.),Internet del país
+50301003,INTERESES PRESTAMOS BANCARIOS,Internet del país
+50301004,DIFERENCIAS POR REDONDEO,Internet del país
+50301005,GASTOS FINANCIEROS ARRIENDOS (NIFF 16),Ocupación
+50302001,INTERESES PRESTAMOS NO BANCARIOS,Internet del país
+50302002,REAJUSTES PRESTAMOS NO BANCARIOS,Intercambio local
+50401001,DIFERENCIA CAMBIO US$,Intercambio local
+50401002,DIFERENCIA DE CAMBIO PESOS,Intercambio local
+50401011,CORRECCION MONETARIA,Intercambio local
+50501002,PRACTICE PROTECTION,Protección de práctica
+50501003,FIRMWIDE MANAGEMENT,Costos asignados
+50501004,PWC GLOBAL CHARGES,Otros ingresos
+51001001,GASTOS NO RECUPERABLES,Ingresos netos
+51001002,HONORARIOS INCOBRABLES,Ingresos netos
+51001003,CASTIGO BOLETAS (1° CATEGORIA),Otros gastos
+51001004,CASTIGO RETENCIONES DEL EXTERIOR,Ingresos netos
+51001006,Disbursement Revenue,Ingresos netos
+51001007,Diferencia por Cierre de Contrato - Tiempo,Ingresos netos
+51001008,Diferencia por Cierre de Contrato - Gasto,Ingresos netos
+51001501,Reclasificacion de Gastos entre Proyectos/Gastos No Recuperables,Ingresos netos
+52001001,IMPUESTO A LA RENTA,IMPUESTO SOBRE LA RENTA
