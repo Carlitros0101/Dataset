@@ -260,3 +260,159 @@ RESULTADO DEL EJERCICIO,RESULTADO DEL EJERCICIO,Resultado acumulado
 42-01-037,CONTRIBUCIONES (C.C.),Gastos de administracion
 43-01-001,CORRECCION MONETARIA,Resultados por unidades de reajuste
 43-01-002,DEPRECIACION,Gastos de administracion
+1110200101,BANCO CHILE,Efectivo y equivalentes al efectivo
+1110200104,BANCO SANTANDER,Efectivo y equivalentes al efectivo
+1110200105,BANCO ESTADO,Efectivo y equivalentes al efectivo
+1130100101,CLIENTES NACIONALES,Deudores comerciales y otras cuentas por cobrar corrientes
+1130100107,FACTURAS POR EMITIR,Deudores comerciales y otras cuentas por cobrar corrientes
+1130300102,PRESTAMOS AL PERSONAL,Deudores comerciales y otras cuentas por cobrar corrientes
+1130300103,ANTICIPOS DE SUELDO,Deudores comerciales y otras cuentas por cobrar corrientes
+1130300104,FONDOS POR RENDIR,Deudores comerciales y otras cuentas por cobrar corrientes
+1130300106,ANTICIPO PROVEEDORES,Cuentas por pagar comerciales y otras cuentas por pagar
+1130300107,ANTICIPO HONORARIOS,Cuentas por pagar comerciales y otras cuentas por pagar
+1140200101,CUENTA MERCANTIL BOSCH RIVERA,Cuentas por cobrar a entidades relacionadas, corrientes
+1140200111,CUENTA MERCANTIL TRAILELFU,Cuentas por cobrar a entidades relacionadas, corrientes
+1140200113,CUENTA MERCANTIL DENER,Cuentas por cobrar a entidades relacionadas, corrientes
+1150200108,PROYECTOS VARIOS,Propiedades planta y equipo
+1150200113,PROYECTO EL GALPON,Propiedades planta y equipo
+1150200118,OFICINA EDIF.EMPRENDEDORES,Propiedades planta y equipo
+1160100101,P.P.M. 1 CATEGORIA,Activos por impuestos corrientes
+1160100104,IVA CREDITO FISCAL,Activos por impuestos corrientes
+1160100108,OTROS IMPUESTOS POR RECUPERAR,Deudores comerciales y otras cuentas por cobrar corrientes
+1170200102,GARANTIA ARRIENDO,Otros Activos
+1170200105,IMPUESTOS DIFERIDOS,Activos por impuestos corrientes
+1210100101,TERRENOS,Propiedades planta y equipo
+1210200101,BIENES RAICES,Propiedades planta y equipo
+1210200106,RECA CENTRAL HIDROELECTRICA,Propiedades planta y equipo
+1210200107,PURISIMA CENTRAL HIDROELECTRICA,Propiedades planta y equipo
+1210300101,MAQUINARIAS, EQUIPOS Y HERRAMIENTAS,Propiedades planta y equipo
+1210400101,MUEBLES, MAQ., Y UTILES DE OFICINA,Propiedades planta y equipo
+1210400102,MUEBLES Y UTILES INSTALACIONES,Propiedades planta y equipo
+1210500101,VEHICULOS,Propiedades planta y equipo
+1220100101,DEP.ACUM.BIEN RAIZ,Propiedades planta y equipo
+1220100104,DEP.ACUM.PURISIMA CENTRAL HIDROELEC,Propiedades planta y equipo
+1220100105,DEP.ACUM.RECA CENTRAL HIDROELECTRIC,Propiedades planta y equipo
+1220100106,DEP.ACUM.MAQUINAS, EQUIPOS Y HERRAM,Propiedades planta y equipo
+1220100107,DEP.ACUM.MUEBLES MAQ.Y UTILES DE OF,Propiedades planta y equipo
+1220100108,DEP.ACUM.MUEBLES Y UTILES INSTALACI,Propiedades planta y equipo
+1220100109,DEP.ACUM.VEHICULOS,Propiedades planta y equipo
+1310200103,MUTUOS POR COBRAR,Otros Activos
+1310400101,DERECHOS DE AGUA Y SERVIDUMBRE,Propiedades planta y equipo
+2110100107,P.BANCARIOS L/P PORCION C/P B.SANTA,Cuentas por pagar comerciales y otras cuentas por pagar
+2110100109,P.BANCARIOS L/P PORCION C/P B.ESTAD,Cuentas por pagar comerciales y otras cuentas por pagar
+2110100201,LINEA DE CREDITO BANCO CHILE,Cuentas por pagar comerciales y otras cuentas por pagar
+2110100207,LINEA DE CREDITO BANCO SANTANDER,Cuentas por pagar comerciales y otras cuentas por pagar
+2120100101,PROVEEDORES NACIONALES,Cuentas por pagar comerciales y otras cuentas por pagar
+2120100105,FACTURAS POR RECIBIR,Cuentas por pagar comerciales y otras cuentas por pagar
+2120100106,ANTICIPO DE CLIENTES,Deudores comerciales y otras cuentas por cobrar corrientes
+2130100101,HONORARIOS POR PAGAR,Cuentas por pagar comerciales y otras cuentas por pagar
+2130100103,SUELDOS POR PAGAR,Cuentas por pagar comerciales y otras cuentas por pagar
+2130100105,RETENCIONES JUDICIALES,Cuentas por pagar comerciales y otras cuentas por pagar
+2130100107,ACREEDORES VARIOS,Cuentas por pagar comerciales y otras cuentas por pagar
+2130100201,IVA DEBITO FISCAL,Pasivos por impuestos 
+2130100202,IMPUESTO UNICO TRABAJADORES,Pasivos por impuestos 
+2130100203,RETENCION SEGUNDA CATEGORIA,Pasivos por impuestos 
+2130100204,IVA RETENIDO A TERCEROS,Pasivos por impuestos 
+2130100205,IMPUESTOS POR PAGAR,Pasivos por impuestos 
+2130100206,I.N.P.,Cuentas por pagar comerciales y otras cuentas por pagar
+2130100207,A.F.P.,Cuentas por pagar comerciales y otras cuentas por pagar
+2130100208,ISAPRE,Cuentas por pagar comerciales y otras cuentas por pagar
+2130100209,MUTUAL DE SEGURIDAD,Cuentas por pagar comerciales y otras cuentas por pagar
+2130100211,CAJA COMPENSACION LOS ANDES,Cuentas por pagar comerciales y otras cuentas por pagar
+2130100214,PROV.IMPUESTO RENTA POR PAGAR,Cuentas por pagar comerciales y otras cuentas por pagar
+2140200101,CUENTA MERCARNTIL POR PAGAR EMP.REL,Cuentas por pagar a entidades relacionadas
+2160100101,PROVISIONES DE COSTO,Cuentas por pagar comerciales y otras cuentas por pagar
+2160100102,PROVISION VACACIONES,Cuentas por pagar comerciales y otras cuentas por pagar
+2210100100,PRESTAMO LARGO PLAZO BCO.ESTADO,Otros pasivos financieros no corrientes
+2210100104,PRESTAMO LARGO PLAZO BCO.SANTANDER,Otros pasivos financieros no corrientes
+2210100201,MUTUOS POR PAGAR LARGO PLAZO,Otros pasivos financieros no corrientes
+2240100101,IMPUESTO DIFERIDO POR PAGAR,Pasivos por impuestos 
+2240100102,PASIVO IMPUESTO DIFERIDO REVALUACION,Pasivos por impuestos 
+2310100101,CAPITAL,Capital emitido
+2330100103,SUPERAVIT POR REVALUACION,Resultado acumulado
+2340100101,RESERVA REVALORIZACION CAPITAL PROP,Resultado acumulado
+2350100102,AJUSTE ACUM.DIF.CONVERSION,Resultado acumulado
+2350100103,RESERVA IMPUESTO DIFERIDO POR REVALUACION,Resultado acumulado
+2360100101,RESULTADOS ACUMULADOS,Resultado acumulado
+2360100102,GANANCIAS ACUMULADAS SUPERAVIT,Resultado acumulado
+2370100101,UTILIDAD (PERDIDA) DEL EJERCICIO,Resultado acumulado
+3105010101,PAGO POTENCIA,Cuentas por pagar comerciales y otras cuentas por pagar
+3105010103,PAGO PEAJE,Cuentas por pagar comerciales y otras cuentas por pagar
+3105010105,PAGO ENERGIA,Cuentas por pagar comerciales y otras cuentas por pagar
+3110100101,SUELDOS,Costos de distribución
+3110100103,GRATIFICACION LEGAL,Costos de distribución
+3110100104,AGUINALDO Y BONOS VACACIONES,Costos de distribución
+3110100105,INCENTIVOS Y PREMIOS,Costos de distribución
+3110100108,VIATICO,Costos de distribución
+3110100109,PROVISION VACACIONES,Costos de distribución
+3110100111,SEGURO DE DESEMPLEO,Costos de distribución
+3110100112,SEGURO DE INVALIDEZ Y SOBREVIVENCIA,Costos de distribución
+3110100113,MUTUAL,Costos de distribución
+3110100201,PASAJES Y TRASLADOS,Costos de distribución
+3110100202,COLACION,Costos de distribución
+3110100204,EPP,Costos de distribución
+3110100206,CAPACITACION,Costos de distribución
+3110100208,SERVICIOS EXTERNOS,Costos de distribución
+3110200101,COMBUSTIBLES,Gastos de administraciÃ³n
+3110200102,ARRIENDO EQUIPOS MENORES,Gastos de administraciÃ³n
+3110200105,MANTENCION EQUIPOS Y VEHICULOS,Gastos de administraciÃ³n
+3110200106,DEPRECIACION,Gastos de administraciÃ³n
+3110300102,FIERRO,Gastos de administraciÃ³n
+3110300104,MADERAS,Gastos de administraciÃ³n
+3110300106,MATERIALES GENERALES,Gastos de administraciÃ³n
+3110300107,HERRAMIENTAS,Gastos de administraciÃ³n
+3110300109,MATERIALES ELECTRICOS,Gastos de administraciÃ³n
+3110300111,PINTURAS,Gastos de administraciÃ³n
+3110300112,FUNGIBLES,Gastos de administraciÃ³n
+3110300113,FIJACIONES,Gastos de administraciÃ³n
+3110300114,SOLDADURAS,Gastos de administraciÃ³n
+3110300115,GASFITERIA,Gastos de administraciÃ³n
+3110500101,GASTOS BOCATOMA / CANAL,Gastos de administraciÃ³n
+3110500102,GASTOS LINEA ELECTRICA,Gastos de administraciÃ³n
+3110500104,GASTOS SALA MAQUINA / CAMARA CARGA,Gastos de administraciÃ³n
+3110500105,GASTOS OFICINA / JARDINES / CASA OP,Gastos de administraciÃ³n
+3110500106,GASTOS ACCESOS Y CAMINOS,Gastos de administraciÃ³n
+3110500107,GASTOS GENERALES CENTRALES,Gastos de administraciÃ³n
+3120100101,ARRIENDO DE OFICINAS Y GASTOS COMUN,Gastos de administraciÃ³n
+3120100102,SERVICIOS BASICOS,Gastos de administraciÃ³n
+3120100103,COMUNICACIONES (OTROS),Gastos de administraciÃ³n
+3120100104,COURRIER Y CORRESPONDENCIA,Gastos de administraciÃ³n
+3120100106,LOCOMOCION,Gastos de administraciÃ³n
+3120100107,PEAJES Y ESTACIONAMIENTO,Gastos de administraciÃ³n
+3120100108,INSUMOS OFICINA,Otros gastos
+3120100109,SEGUROS,Gastos de administraciÃ³n
+3120100110,MANTENCION GENERAL,Gastos de administraciÃ³n
+3120100112,GASTOS GENERALES,Gastos de administraciÃ³n
+3120100116,INTERESES Y MULTAS,Otros gastos
+3120100117,PATENTES Y DERECHOS MUNICIPALES,Gastos de administraciÃ³n
+3120100118,CONTRIBUCIONES,Gastos de administraciÃ³n
+3120100119,AMORTIZACION LICENCIAS Y SOFTWARE,Gastos de administraciÃ³n
+3120100125,ASESORIA TRIBUTARIA Y AUDITORIA EXT,Gastos de administraciÃ³n
+3120100126,ASESORIA JURIDICA,Gastos de administraciÃ³n
+3120100128,OTRAS ASESORIAS,Gastos de administraciÃ³n
+3120100129,SER.EXTERNOS,Gastos de administraciÃ³n
+3120100131,GASTOS LEGALES Y NOTARIALES,Gastos de administraciÃ³n
+3120100132,ARTICULOS DE ASEO,Gastos de administraciÃ³n
+3120100133,ALOJAMIENTOS,Gastos de administraciÃ³n
+3120100134,CONSUMOS,Gastos de administraciÃ³n
+3120100137,INSUMOS COMPUTACIONALES,Gastos de administraciÃ³n
+3210100101,GASTOS BANCARIOS,Costos financieros
+3210100102,INTERESES BANCARIOS,Costos financieros
+3210100103,OTROS GASTOS,Otros gastos
+3220100100,CM ACTIVOS CORRIENTES,Resultados por unidades de reajuste
+3220100111,CM PPM Y REMANENTE,Resultados por unidades de reajuste
+3230100104,DIFERENCIA DE REDONDEO,Resultados por unidades de reajuste
+3230100105,REAJUSTE UF,Resultados por unidades de reajuste
+3230100106,REAJUSTE UF ER,Resultados por unidades de reajuste
+3240100102,IMPUESTO RENTA DIFERIDO,Gasto por impuestos a las ganancias
+3250100102,DEUDORES INCOBRABLES,Gastos de administraciÃ³n
+4101001000,INGRESOS DE OPERACIONES,Ingresos de actividades ordinarias
+4101002000,INGRESOS OPERACIONES EMP. RELAC.,Ingresos de actividades ordinarias
+4101003000,VENTA DE ENERGIA,Ingresos de actividades ordinarias
+4101004000,VENTA DE RM-88 * PEAJE,Ingresos de actividades ordinarias
+4101005000,VENTA DE POTENCIA,Ingresos de actividades ordinarias
+4201003000,OTROS INGRESOS FINANCIEROS,Otros Ingresos
+4203006000,OTROS INGRESOS FUERA DE LA EXPLOTAC,Otros Ingresos
+4203008000,COSTO VENTA ACTIVO FIJO,Otros gastos
+4204001000,INR,Otros gastos
+4210040000,INTERESES GANADOS ER,Otros Ingresos
