@@ -77,72 +77,72 @@ CUENTA,NOMBRE_CUENTA,CLASIFICACION
 2903-01,RESPONS. BOLETAS GARANTIA,Otros Activos
 2905-01,RESP.DOCUMENTOS EN GARANTIA,Otros Activos
 RESULTADO DEL EJERCICIO,RESULTADO DEL EJERCICIO,Resultado acumulado
-4101-01,COSTO PRODUCTOS/ARTICULOS,Costos de distribución
-4101-05,ETIQUETAS Y ENVASES,Costos de distribución
-4101-06,SALARIOS Y SUELDOS PRODUCCION,Costos de distribución
-4101-07,LEYES SOCIALES,Costos de distribución
-4101-08,FLETES,Costos de distribución
-4101-09,OTROS GASTOS DE EXPLOTACION,Costos de distribución
-4101-10,MANTENCION MAQUINARIAS,Costos de distribución
-4101-11,GASTO HERRAMIENTA,Costos de distribución
-4101-15,GASTOS BODEGA,Costos de distribución
-4101-20,MOVILIZACION Y COLACION,Costos de distribución
-4101-21,INSUMOS DE PRODUCCION,Costos de distribución
-4101-22,MERMAS Y EXCEDENTES,Costos de distribución
-4101-23,GTOS.CAPACITACION PROD.- BODEGA,Costos de distribución
-4101-26,SALARIO Y SUELDOS BODEGA,Costos de distribución
-4101-28,LEYES SOCIALES BODEGA,Costos de distribución
-4101-29,COLACION Y MOVILIZ. BODEGA,Costos de distribución
-4101-30,GASTOS POR MONTAJES,Costos de distribución
-4101-31,OTROS GASTOS PRODUCCION,Costos de distribución
-4201-01,SUELDOS Y SALARIOS,Gastos de administración
-4201-03,LEYES SOCIALES,Gastos de administración
-4201-04,GASTOS DE OFICINA,Gastos de administración
-4201-05,IMPUESTOS Y PATENTES,Gastos de administración
-4201-06,MANTENCION DE VEHICULOS,Gastos de administración
-4201-07,MANTENC.EQUIP. Y EDIFICIOS,Gastos de administración
-4201-08,OTROS GASTOS DE ADMINISTRACION,Gastos de administración
+4101-01,COSTO PRODUCTOS/ARTICULOS,Costos de distribuciÃ³n
+4101-05,ETIQUETAS Y ENVASES,Costos de distribuciÃ³n
+4101-06,SALARIOS Y SUELDOS PRODUCCION,Costos de distribuciÃ³n
+4101-07,LEYES SOCIALES,Costos de distribuciÃ³n
+4101-08,FLETES,Costos de distribuciÃ³n
+4101-09,OTROS GASTOS DE EXPLOTACION,Costos de distribuciÃ³n
+4101-10,MANTENCION MAQUINARIAS,Costos de distribuciÃ³n
+4101-11,GASTO HERRAMIENTA,Costos de distribuciÃ³n
+4101-15,GASTOS BODEGA,Costos de distribuciÃ³n
+4101-20,MOVILIZACION Y COLACION,Costos de distribuciÃ³n
+4101-21,INSUMOS DE PRODUCCION,Costos de distribuciÃ³n
+4101-22,MERMAS Y EXCEDENTES,Costos de distribuciÃ³n
+4101-23,GTOS.CAPACITACION PROD.- BODEGA,Costos de distribuciÃ³n
+4101-26,SALARIO Y SUELDOS BODEGA,Costos de distribuciÃ³n
+4101-28,LEYES SOCIALES BODEGA,Costos de distribuciÃ³n
+4101-29,COLACION Y MOVILIZ. BODEGA,Costos de distribuciÃ³n
+4101-30,GASTOS POR MONTAJES,Costos de distribuciÃ³n
+4101-31,OTROS GASTOS PRODUCCION,Costos de distribuciÃ³n
+4201-01,SUELDOS Y SALARIOS,Gastos de administraciÃ³n
+4201-03,LEYES SOCIALES,Gastos de administraciÃ³n
+4201-04,GASTOS DE OFICINA,Gastos de administraciÃ³n
+4201-05,IMPUESTOS Y PATENTES,Gastos de administraciÃ³n
+4201-06,MANTENCION DE VEHICULOS,Gastos de administraciÃ³n
+4201-07,MANTENC.EQUIP. Y EDIFICIOS,Gastos de administraciÃ³n
+4201-08,OTROS GASTOS DE ADMINISTRACION,Gastos de administraciÃ³n
 4201-10,GASTOS BANCARIOS,Costos financieros
 4201-11,INTERESES Y MULTAS,Otros gastos
 4201-12,LEGALES Y NOTARIALES,Otros gastos
-4201-13,BIENESTAR SOCIAL,Gastos de administración
+4201-13,BIENESTAR SOCIAL,Gastos de administraciÃ³n
 4201-16,INTERESES LEASING,Costos financieros
-4201-17,SUELDOS Y SALARIOS ROL PRIVADO,Gastos de administración
-4201-18,SEGUROS,Gastos de administración
-4201-19,GASTOS CAPACITACION PERSONAL,Gastos de administración
-4201-20,GASTO DE SEGURIDAD,Gastos de administración
-4201-24,FINIQUITOS,Gastos de administración
-4201-25,LUZ-GAS-AGUA-ASEO,Gastos de administración
-4201-26,LOCOMOCION Y COLACION,Gastos de administración
-4201-30,ARRIENDO Y GASTOS COMUNES,Gastos de administración
-4201-31,TELEFONOS-TELEX-CORREO,Gastos de administración
-4201-32,SUSCRIPCIONES Y PUBLICACIONES,Gastos de administración
+4201-17,SUELDOS Y SALARIOS ROL PRIVADO,Gastos de administraciÃ³n
+4201-18,SEGUROS,Gastos de administraciÃ³n
+4201-19,GASTOS CAPACITACION PERSONAL,Gastos de administraciÃ³n
+4201-20,GASTO DE SEGURIDAD,Gastos de administraciÃ³n
+4201-24,FINIQUITOS,Gastos de administraciÃ³n
+4201-25,LUZ-GAS-AGUA-ASEO,Gastos de administraciÃ³n
+4201-26,LOCOMOCION Y COLACION,Gastos de administraciÃ³n
+4201-30,ARRIENDO Y GASTOS COMUNES,Gastos de administraciÃ³n
+4201-31,TELEFONOS-TELEX-CORREO,Gastos de administraciÃ³n
+4201-32,SUSCRIPCIONES Y PUBLICACIONES,Gastos de administraciÃ³n
 4201-35,INTERESES/IMPTOS/TARJETA VISA,Costo financiero
-4201-36,MANTENCIONES Y REPARACIONES,Gastos de administración
-4201-37,SERVICIO COMPUTACIONAL,Gastos de administración
-4201-39,GASTOS RECHAZADOS,Gastos de administración
-4201-40,DONACIONES,Gastos de administración
-4201-43,LEYES SOCIALES ROL PRIVADO,Gastos de administración
-4202-02,HONORARIOS,Gastos de administración
-4202-04,OTROS GASTOS SIG,Gastos de administración
+4201-36,MANTENCIONES Y REPARACIONES,Gastos de administraciÃ³n
+4201-37,SERVICIO COMPUTACIONAL,Gastos de administraciÃ³n
+4201-39,GASTOS RECHAZADOS,Gastos de administraciÃ³n
+4201-40,DONACIONES,Gastos de administraciÃ³n
+4201-43,LEYES SOCIALES ROL PRIVADO,Gastos de administraciÃ³n
+4202-02,HONORARIOS,Gastos de administraciÃ³n
+4202-04,OTROS GASTOS SIG,Gastos de administraciÃ³n
 4205-01,INTERESES BANCARIOS,Costo financiero
 4205-01,INTERESES BANCARIOS,Costos financieros
 4205-05,INT. Y COMIS. POR L.C.,Costos financieros
-4206-01,DEPRECIACION EJERCICIO,Gastos de administración
-4292-01,CASTIGO DEUDORES,Gastos de administración
-4301-01,COMISIONES VENDEDORES,Gastos de administración
-4301-05,OTROS GASTOS DE VENTA,Gastos de administración
-4301-06,SUELDOS Y SALARIOS,Gastos de administración
-4301-08,LEYES SOCIALES,Gastos de administración
-4301-10,CAPACITACION PERSONAL,Gastos de administración
-4301-11,FINIQUITOS,Gastos de administración
-4301-12,LOCOMOCION Y COLACION,Gastos de administración
-4301-15,GASTOS HOTEL,Gastos de administración
-4301-16,COLACION Y MOV. TECNICA,Gastos de administración
-4301-17,ARRIENDO VEHICULOS VENTAS,Gastos de administración
-4301-18,GASTOS REUNION VENTAS,Gastos de administración
-4301-19,GASTOS PASAJES VENTAS,Gastos de administración
-4301-20,PUBLICIDAD,Gastos de administración
+4206-01,DEPRECIACION EJERCICIO,Gastos de administraciÃ³n
+4292-01,CASTIGO DEUDORES,Gastos de administraciÃ³n
+4301-01,COMISIONES VENDEDORES,Gastos de administraciÃ³n
+4301-05,OTROS GASTOS DE VENTA,Gastos de administraciÃ³n
+4301-06,SUELDOS Y SALARIOS,Gastos de administraciÃ³n
+4301-08,LEYES SOCIALES,Gastos de administraciÃ³n
+4301-10,CAPACITACION PERSONAL,Gastos de administraciÃ³n
+4301-11,FINIQUITOS,Gastos de administraciÃ³n
+4301-12,LOCOMOCION Y COLACION,Gastos de administraciÃ³n
+4301-15,GASTOS HOTEL,Gastos de administraciÃ³n
+4301-16,COLACION Y MOV. TECNICA,Gastos de administraciÃ³n
+4301-17,ARRIENDO VEHICULOS VENTAS,Gastos de administraciÃ³n
+4301-18,GASTOS REUNION VENTAS,Gastos de administraciÃ³n
+4301-19,GASTOS PASAJES VENTAS,Gastos de administraciÃ³n
+4301-20,PUBLICIDAD,Gastos de administraciÃ³n
 4401-01,INTERESES PAGADOS,Otros gastos
 4401-04,SINIESTROS,Otros gastos
 4401-06,FLUCTUACION DE CAMBIOS,Resultados por unidades de reajuste
