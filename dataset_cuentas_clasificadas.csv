@@ -165,3 +165,98 @@ RESULTADO DEL EJERCICIO,RESULTADO DEL EJERCICIO,Resultado acumulado
 5501-13,CORRECCION MONETARIA,Resultados por unidades de reajuste
 5501-14,GAN. MCDO COLOC NAC. ACC.,Otros Ingresos
 5501-15,GAN. MCDO COLOC NAC. FFMM.,Otros Ingresos
+11-01-001,CAJA PESOS,Efectivo y equivalentes al efectivo
+11-01-002,CAJA MONEDA EXTRANJERA,Efectivo y equivalentes al efectivo
+11-01-003,FONDOS FIJO,Efectivo y equivalentes al efectivo
+11-01-004,BANCO ESTADO,Efectivo y equivalentes al efectivo
+11-01-005,BANCO SANTANDER,Efectivo y equivalentes al efectivo
+11-01-006,BANCO SANTANDER DOLAR,Efectivo y equivalentes al efectivo
+11-01-009,ACCIONES,Efectivo y equivalentes al efectivo
+11-01-010,BANCO SANTANDER CTA 3 (TRANSFERENCIA LOCALES),Efectivo y equivalentes al efectivo
+11-01-011,BANCO SANTANDER CTA 2,Efectivo y equivalentes al efectivo
+11-01-012,CTA GARANTIAS,Otros Activos
+11-01-014,CLIENTES,Deudores comerciales y otras cuentas por cobrar corrientes
+11-01-015,BANCO ESTADO CTA 2,Efectivo y equivalentes al efectivo
+11-01-016,DEP A PLAZO FONDO MUTUO,Efectivo y equivalentes al efectivo
+11-01-017,DEP A PLAZO DOLARES,Efectivo y equivalentes al efectivo
+11-02-001,OPERACIONES APP MODULOS,Efectivo y equivalentes al efectivo
+11-02-003,CUENTAS POR COBRAR,Deudores comerciales y otras cuentas por cobrar corrientes
+11-02-004,CLIENTES 2,Deudores comerciales y otras cuentas por cobrar corrientes
+11-03-001,ANTICIPO EMPLEADOS,Deudores comerciales y otras cuentas por cobrar corrientes
+11-03-002,PRESTAMO EMPLEADOS,Deudores comerciales y otras cuentas por cobrar corrientes
+11-03-004,ASIGNACION FAMILIAR,Deudores comerciales y otras cuentas por cobrar corrientes
+11-04-001,PPM,Activos por impuestos corrientes
+12-01-001,BIENES RAICES,Propiedades planta y equipo
+12-01-002,MUEBLES Y UTILES,Propiedades planta y equipo
+12-01-003,INSTALACIONES,Propiedades planta y equipo
+12-01-004,CONSTRUCCION Y OBRAS,Propiedades planta y equipo
+12-01-005,SOFTWARE - INFORMATICA,Propiedades planta y equipo
+12-01-006,DERECHO DE LLAVE,Propiedades planta y equipo
+12-01-007,ACTIVO POR DERECHO DE USO,Propiedades planta y equipo
+13-01-001,DEPRECIACION ACUMULADA,Propiedades planta y equipo
+13-01-010,PARTICIPACION EN OTRAS SOCIEDAD,Propiedades planta y equipo
+13-01-011,DEPREC ACUMULADA DERECHO USO,Propiedades planta y equipo
+13-01-012,ACTIVO POR IMPTO DIFERIDO,Activos por impuestos corrientes
+21-01-006,C. MUTUOS/PTMO SOCIOS,Cuentas por pagar comerciales y otras cuentas por pagar
+21-01-007,PASIVO DERECHO USO C/P,Cuentas por pagar comerciales y otras cuentas por pagar
+21-02-001,CUENTA CORRIENTE COMANCHE,Cuentas por pagar a entidades relacionadas
+21-02-004,CUENTA CORRIENTE ENVIA,Cuentas por pagar a entidades relacionadas
+21-02-005,CUENTA CORRIENTE ENVIA 2,Cuentas por pagar a entidades relacionadas
+21-03-002,PROVEEDORES,Cuentas por pagar comerciales y otras cuentas por pagar
+21-03-003,HONORARIOS POR PAGAR,Cuentas por pagar comerciales y otras cuentas por pagar
+21-03-004,SUELDOS POR PAGAR,Cuentas por pagar comerciales y otras cuentas por pagar
+21-03-006,AFP POR PAGAR,Cuentas por pagar comerciales y otras cuentas por pagar
+21-03-007,SALUD POR PAGAR,Cuentas por pagar comerciales y otras cuentas por pagar
+21-03-010,CAJA LOS ANDES,Cuentas por pagar comerciales y otras cuentas por pagar
+21-03-011,IST,Cuentas por pagar comerciales y otras cuentas por pagar
+21-04-001,AHORRO VOLUNTARIO,Cuentas por pagar comerciales y otras cuentas por pagar
+21-05-001,I V A DEBITO,Cuentas por pagar comerciales y otras cuentas por pagar
+21-05-002,IMPUESTO ART 42 - 2,Pasivos por impuestos 
+21-05-003,IMPUESTO UNICO TRABAJADORES,Pasivos por impuestos 
+21-05-004,IMP Y PPM POR PAGAR,Pasivos por impuestos 
+21-05-005,PROVISION IMPUESTO A LA RENTA,Pasivos por impuestos 
+21-06-003,PROVISIONES VARIAS,Cuentas por pagar comerciales y otras cuentas por pagar
+21-06-004,PROVISION DE VACACIONES,Cuentas por pagar comerciales y otras cuentas por pagar
+22-01-001,CAPITAL,Capital emitido
+22-01-003,UTILIDADES ACUMULADAS,Resultado acumulado
+22-01-008,ADOPCION POR PRIMERA VEZ IFRS,Resultado acumulado
+22-01-010,UTILIDADES ACUMULADAS,Resultado acumulado
+30-01-005,VENTAS MONEDA EXTRANJERA,Ingresos de actividades ordinarias
+30-01-011,OTROS INGRESOS,Otros Ingresos
+40-01-003,COMPRAS MONEDA EXTRANJERA,Costos de distribución
+40-01-011,ARTICULOS DE OFICINA,Costos de distribución
+40-01-012,CONSERVACION Y REPARACION,Costos de distribución
+40-01-024,VIAJES-MOVILIZACION-TRASLADO,Costos de distribución
+40-01-026,MULTAS (C.C.),Costos de distribución
+41-01-013,HONORARIOS Y PRESTACIONES,Costos de distribución
+41-01-014,ASESORIAS,Costos de distribución
+41-01-017,SEGUROS,Costos de distribución
+41-01-029,SUELDOS BASE (C.C.),Costos de distribución
+41-01-030,ASIGNACION CAJA (C.C.),Costos de distribución
+41-01-031,LEYES SOCIALES EMPLEADOR (C.C.),Costos de distribución
+41-01-032,MOVILIZACION Y COLACION (C.C.),Costos de distribución
+41-01-033,GRATIFICACION (C.C.),Costos de distribución
+41-01-035,AGUINALDOS (C.C.),Costos de distribución
+41-01-036,ARRIENDOS (C.C.),Costos de distribución
+41-01-037,GASTOS COMUNES (C.C.),Costos de distribución
+41-01-038,PATENTES (C.C.),Costos de distribución
+41-01-039,TELEFONO Y ENERGIA ELECTRICA (C.C.),Costos de distribución
+41-01-043,VARIOS (C.C.),Costos de distribución
+41-01-044,COMISION RECAUDACION (C.C.),Costos de distribución
+41-01-045,ALARMAS Y SEGURIDAD (C.C.),Costos de distribución
+41-01-047,AGUA POTABLE (C.C.),Costos de distribución
+41-01-048,VACACIONES (C.C.),Costos de distribución
+41-01-049,INDEMNIZACION (C.C.),Costos de distribución
+41-01-050,BONO NO IMPONIBLE (C.C.),Costos de distribución
+41-01-051,BONO IMPONIBLE (C.C.),Costos de distribución
+41-01-052,HORAS EXTRAS-BONO (C.C.),Costos de distribución
+41-01-053,PUBLICIDAD (C.C.),Costos de distribución
+41-01-055,GASTOS CAJA CHICA (C.C.),Costos de distribución
+41-01-057,30% DIA DOMINGO,Costos de distribución
+42-01-002,INTERESES Y REAJUSTES,Costos de distribución
+42-01-032,GASTOS BANCARIOS (C.C.),Gastos de administracion
+42-01-033,INTERESES Y REAJUSTES (C.C.),Gastos de administracion
+42-01-036,IMPUESTO PRIMERQA CATEGORIA (C.C.),Gasto por impuestos a las ganancias
+42-01-037,CONTRIBUCIONES (C.C.),Gastos de administracion
+43-01-001,CORRECCION MONETARIA,Resultados por unidades de reajuste
+43-01-002,DEPRECIACION,Gastos de administracion
